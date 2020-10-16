@@ -28,6 +28,7 @@ const styles = StyleSheet.create({
     }, gridItemImage: {
         width: 100,
         height: 100,
+        borderWidth: 1.5,
         borderColor: 'white',
     }
 })
