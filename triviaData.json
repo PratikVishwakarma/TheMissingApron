@@ -1,0 +1,445 @@
+{
+  "marvel": [
+    {
+      "question": "What is the name of Thor’s hammer?",
+      "answer": ["Norn", "Vanir", "Mjolnir", "Aesir"],
+      "correctAnswer": "Mjolnir"
+    },
+    {
+      "question": "What year was the first Iron Man movie released, kicking off the Marvel Cinematic Universe?",
+      "answer": ["2012", "2008", "2005", "2010"],
+      "correctAnswer": "2008"
+    },
+    {
+      "question": "What type of doctor is Stephen Strange?",
+      "answer": [
+        "Trauma Surgeon",
+        "Plastic Surgeon",
+        "Neurosurgeon",
+        "Cardiothoracic Surgeon"
+      ],
+      "correctAnswer": "Neurosurgeon"
+    },
+    {
+      "question": "What is Captain America’s shield made of?",
+      "answer": ["Vibranium", "Carbonadium", "Adamantium", "Promethium"],
+      "correctAnswer": "Vibranium"
+    },
+    {
+      "question": "In the Incredible Hulk, what does Tony tell Thaddeus Ross at the end of the film?",
+      "answer": [
+        "That he knows about S.H.I.E.L.D.",
+        "That he wants to study The Hulk",
+        "That they are putting a team together",
+        "That he wants to study The Hulk"
+      ],
+      "correctAnswer": "That they are putting a team together"
+    },
+    {
+      "question": "The Flerkens are a race of extremely dangerous aliens that resembles what?",
+      "answer": [
+        "Cats",
+        "Ducks",
+        "Reptiles",
+        "Raccoons"
+      ],
+      "correctAnswer": "Cats"
+    },
+    {
+      "question": "Before becoming Vision, what is the name of Iron Man’s A.I. butler?",
+      "answer": [
+        "H.O.M.E.R.",
+        "J.A.R.V.I.S.",
+        "A.L.F.R.E.D.",
+        "M.A.R.V.I.N."
+      ],
+      "correctAnswer": "J.A.R.V.I.S."
+    },
+    {
+      "question": "What is the real name of the Black Panther?",
+      "answer": [
+        "M’Baku",
+        "N’Jobu",
+        "N’Jadaka",
+        "T’Challa"
+      ],
+      "correctAnswer": "T’Challa"
+    },
+    {
+      "question": "Who was the last holder of the Space Stone before Thanos claims it for his Infinity Gauntlet?",
+      "answer": [
+        "The Collector",
+        "Thor",
+        "Loki",
+        "Tony Stark"
+      ],
+      "correctAnswer": "Loki"
+    },
+    {
+      "question": "What is the alien race Loki sends to invade Earth in The Avengers?",
+      "answer": [
+        "The Skrulls",
+        "The Kree",
+        "The Flerkens",
+        "The Chitauri"
+      ],
+      "correctAnswer": "The Chitauri"
+    },
+    {
+      "question": "What fake name does Natasha use when she first meets Tony?",
+      "answer": [
+        "Natalia Romanoff",
+        "Nicole Rohan",
+        "Natalie Rushman",
+        "Naya Rabe"
+      ],
+      "correctAnswer": "Natalie Rushman"
+    },
+    {
+      "question": "What does Thor want another of when he’s in the diner?",
+      "answer": [
+        "A slice of pie",
+        "A cup of coffee",
+        "A pint of beer",
+        "A stack of pancakes"
+      ],
+      "correctAnswer": "A cup of coffee"
+    },
+    {
+      "question": "Where does Peggy tell Steve she wants to meet him for a dance, before he plunges into the ice?",
+      "answer": [
+        "El Morocco",
+        "The Copacabana",
+        "El Morocco",
+        "The Stork Club"
+      ],
+      "correctAnswer": "The Stork Club"
+    },
+    {
+      "question": "About which city do Hawkeye and Black Widow often reminisce?",
+      "answer": [
+        "Prague",
+        "Sokovia",
+        "Istanbul",
+        "Budapest"
+      ],
+      "correctAnswer": "Budapest"
+    },
+    {
+      "question": "Who does the Mad Titan sacrifice to acquire the Soul Stone?",
+      "answer": [
+        "Cull Obsidian",
+        "Nebula",
+        "Ebony Maw",
+        "Naya Rabe"
+      ],
+      "correctAnswer": "Gamora"
+    },
+    {
+      "question": "What is the name of the little boy Tony befriends while stranded in the Iron Man 3?",
+      "answer": [
+        "Holden",
+        "Harley",
+        "Henry",
+        "Harry"
+      ],
+      "correctAnswer": "Harley"
+    },
+    {
+      "question": "Where do Lady Sif and Volstagg keep the Reality Stone after the Dark Elves tried to steal it?",
+      "answer": [
+        "On Vormir",
+        "Inside Sif’s sword",
+        "In a vault on Asgard",
+        "To the Collector"
+      ],
+      "correctAnswer": "To the Collector"
+    },
+    {
+      "question": "What does the Winter Soldier say after Steve recognizes him for the first time?",
+      "answer": [
+        "'Who the hell is Bucky?'",
+        "'He’s gone.'",
+        "'What did you say?'",
+        "'Do I know you?'"
+      ],
+      "correctAnswer": "'Who the hell is Bucky?'"
+    },
+    {
+      "question": "What were the three items Rocket claims he needs in order to escape the prison?",
+      "answer": [
+        "A pair of binoculars, a detonator, and a prosthetic leg",
+        "A knife, cable wires, and Peter’s mixtape",
+        "A security band, a battery, and a prosthetic leg",
+        "A pair of binoculars, a detonator, and a prosthetic leg"
+      ],
+      "correctAnswer": "A security band, a battery, and a prosthetic leg"
+    },
+    {
+      "question": "What word does Tony utter that makes Steve say, “Language”?",
+      "answer": [
+        "'Idiot!'",
+        "'Asshole!'",
+        "'Crap'",
+        "'Shit!'"
+      ],
+      "correctAnswer": "'Shit!'"
+    },
+    {
+      "question": "What animal does Darren Cross unsuccessfully shrink in the Ant-Man?",
+      "answer": [
+        "Sheep",
+        "Duck",
+        "Hamster",
+        "Mouse"
+      ],
+      "correctAnswer": "Sheep"
+    },
+    {
+      "question": "Who is killed by Loki in the Avengers?",
+      "answer": [
+        "Agent Coulson",
+        "Nick Fury",
+        "Doctor Erik Selvig",
+        "Maria Hill"
+      ],
+      "correctAnswer": "Agent Coulson"
+    },
+    {
+      "question": "Who is Black Panther’s sister?",
+      "answer": [
+        "Ramonda",
+        "Okoye",
+        "Shuri",
+        "Nakia"
+      ],
+      "correctAnswer": "Shuri"
+    },
+    {
+      "question": "What landmark does Peter Parker rescue his classmates from in Spider-Man: Homecoming?",
+      "answer": [
+        "Mount Rushmore",
+        "Washington Monument",
+        "Golden Gate Bridge",
+        "Statue of Liberty"
+      ],
+      "correctAnswer": "Washington Monument"
+    },
+    {
+      "question": "What song does Baby Groot dance to at the end of the first Guardian of the Galaxy?",
+      "answer": [
+        "‘Hooked On A Feeling’ – Voidoid",
+        "‘I Want You Back’ – The Jackson 5",
+        "‘Cherry Bomb’ – The Runaways",
+        "‘Ain’t No Mountain High Enough’ – Marvin Gaye & Tammi Terrell"
+      ],
+      "correctAnswer": "‘I Want You Back’ – The Jackson 5"
+    },
+    {
+      "question": "Who are the primordial beings that are responsible for the creation of the Infinity Stones?",
+      "answer": [
+        "Asgardians",
+        "Frost Giants",
+        "Doctor Erik Selvig",
+        "Korg"
+      ],
+      "correctAnswer": "Cosmic Entities"
+    },
+    {
+      "question": "What is Deadpool’s real name?",
+      "answer": [
+        "Wanda Maximoff",
+        "Peter Parker",
+        "Wade Wilson",
+        "Tony Stark"
+      ],
+      "correctAnswer": "Wade Wilson"
+    },
+    {
+      "question": "In ‘Black Panther’, what African country is Nakia operating in as a spy before T’Challa arrived and brought her back to Wakanda?",
+      "answer": [
+        "Ghana",
+        "Nigeria",
+        "Sokovia",
+        "Wakanda"
+      ],
+      "correctAnswer": "Nigeria"
+    },
+    {
+      "question": "Who was the villain of ‘Thor: The Dark World’?",
+      "answer": [
+        "Kaecilius",
+        "Ghost",
+        "Red Skull",
+        "Malekith"
+      ],
+      "correctAnswer": "Malekith"
+    },
+    {
+      "question": "Which of the infinity stones is hidden on Vormir?",
+      "answer": [
+        "Soul Stone",
+        "Power Stone",
+        "Reality Stone",
+        "TIme Stone"
+      ],
+      "correctAnswer": "Soul Stone"
+    },
+    {
+      "question": "What is the real name of the Scarlet Witch?",
+      "answer": [
+        "Peggy Carter",
+        "Wanda Maximoff",
+        "Carol Danvers",
+        "Nebula"
+      ],
+      "correctAnswer": "Wanda Maximoff"
+    },
+    {
+      "question": "In which film’s post-credit scene did Thanos first appear?",
+      "answer": [
+        "Guardians of the Galaxy",
+        "The Avengers",
+        "Avengers: Endgame",
+        "Thor: Ragnarok"
+      ],
+      "correctAnswer": "The Avengers"
+    },
+    {
+      "question": "In ‘Doctor Strange’, the Time Stone is revealed to be hidden inside what artifact?",
+      "answer": [
+        "Crimson Bands Of Cyttorak",
+        "Twilight Sword",
+        "Wand Of Watoomb",
+        "Eye of Agamotto"
+      ],
+      "correctAnswer": "Eye of Agamotto"
+    },
+    {
+      "question": "What German airport does the clash of the Avengers take place?",
+      "answer": [
+        "Leipzig / Halle",
+        "PIER 13",
+        "DAIRY QUEEN",
+        "XANDAR PLAZA"
+      ],
+      "correctAnswer": "Leipzig / Halle"
+    },
+    {
+      "question": "Which planet does Peter Quill retrieve the Orb containing the Power Stone?",
+      "answer": [
+        "Morag",
+        "Vanaheim",
+        "Asgard",
+        "Earth"
+      ],
+      "correctAnswer": "Morag"
+    },
+    {
+      "question": "Who killed Tony Stark’s parents?",
+      "answer": [
+        "Whiplash",
+        "Red Skull",
+        "Carol Danvers",
+        "The Winter Soldier"
+      ],
+      "correctAnswer": "The Winter Soldier"
+    },
+    {
+      "question": "What is the name of the mysterious glowing blue cube which Loki uses as a weapon?",
+      "answer": [
+        "The Darkhold",
+        "Infinity Gauntlet",
+        "The Tesseracts",
+        "The Darkhold"
+      ],
+      "correctAnswer": "The Tesseract"
+    },
+    {
+      "question": "Who has directed the most MCU movies?",
+      "answer": [
+        "",
+        "The Russo Brothers",
+        "",
+        ""
+      ],
+      "correctAnswer": "The Russo Brothers"
+    },
+    {
+      "question": "What Top Gun character is Captain America’s cat named after?",
+      "answer": [
+        "Goose",
+        "",
+        "",
+        ""
+      ],
+      "correctAnswer": "Goose"
+    },
+    {
+      "question": "What is the name of the axe that is forged from the heat of a dying neutron star for Thor?",
+      "answer": [
+        "",
+        "",
+        "",
+        "Stormbreaker"
+      ],
+      "correctAnswer": "Stormbreaker"
+    },
+    {
+      "question": "Which film did The Aether first appear in?",
+      "answer": [
+        "",
+        "Thor: The Dark World",
+        "",
+        ""
+      ],
+      "correctAnswer": "Thor: The Dark World"
+    },
+    {
+      "question": "How many Infinity Stones are there?",
+      "answer": [
+        "5",
+        "8",
+        "4",
+        "6"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "What is the name of the organisation revealed to have taken over S.H.I.E.L.D. in Captain America: The Winter Soldier?",
+      "answer": [
+        "",
+        "Kree",
+        "Hydra",
+        "Area 51"
+      ],
+      "correctAnswer": "Goose"
+    },
+    {
+      "question": "What is the only Marvel film not to have a post-credit scene?",
+      "answer": [
+        "Avengers: Endgame",
+        "Ant Man",
+        "Thor: Ragnarok",
+        "The Avengers"
+      ],
+      "correctAnswer": "Avengers: Endgame"
+    }
+  ]
+}
+
+// What species is Loki revealed to be?
+// 37. Frost Giant
+
+// What is the name of the microscopic universe Ant-Man travels to when he goes sub-atomic?
+// 38. Quantum Realm
+
+// Director Taika Waititi also played which comedic Thor: Ragnarok character?
+// 39. Korg
+
+// 42. Captain Marvel
+// 43. The Sokovia Accords
+// 45. Yellowjacket
+
+
+
