@@ -1,5 +1,5 @@
 {
-  "marvel": [
+  "allQuestions": [
     {
       "question": "What is the name of Thor’s hammer?",
       "answer": ["Norn", "Vanir", "Mjolnir", "Aesir"],
@@ -240,7 +240,7 @@
       "answer": [
         "Asgardians",
         "Frost Giants",
-        "Doctor Erik Selvig",
+        "Cosmic Entities",
         "Korg"
       ],
       "correctAnswer": "Cosmic Entities"
@@ -281,7 +281,7 @@
         "Soul Stone",
         "Power Stone",
         "Reality Stone",
-        "TIme Stone"
+        "Time Stone"
       ],
       "correctAnswer": "Soul Stone"
     },
