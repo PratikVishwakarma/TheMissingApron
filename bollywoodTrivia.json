@@ -1,14 +1,14 @@
 {
   "allQuestions": [
     {
-      "question": "Which New York newspaper’s building and lobby stood in for The Daily Planet in Superman?",
+      "question": "Which of these films was Hema Malini's directorial debut in Bollywood?",
       "answer": [
-        "New York Daily Today",
-        "New York Daily Times",
-        "New York Daily Post",
-        "New York Daily News"
+        "Jugnu",
+        "Dil Aashna Hai",
+        "Lal Patthar",
+        "Sholay"
       ],
-      "correctAnswer": "New York Daily News"
+      "correctAnswer": "Dil Aashna Hai"
     },
     {
       "question": "In Superman, where does Lex Luthor set up his lair?",
