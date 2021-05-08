@@ -11,124 +11,653 @@
       "correctAnswer": "Dil Aashna Hai"
     },
     {
-      "question": "In Superman, where does Lex Luthor set up his lair?",
+      "question": "What is the name of Sholay' s iconic villain?",
       "answer": [
-        "In disused parts of the Lexcorp office tower",
-        "Atop the Chrysler Building (or the Metropolis equivalent)",
-        "In a forgotten, but opulent Metropolis train station",
-        "In the sciences building at Metropolis State University"
+        "Shakaal",
+        "Gabar",
+        "Kaancha",
+        "Kalia"
       ],
-      "correctAnswer": "In a forgotten, but opulent Metropolis train station"
+      "correctAnswer": "Gabar"
     },
     {
-      "question": "In Superman Returns, what is the name Lex Luthor gives his new landmass off the coast of Metropolis?",
+      "question": "In Jab We Met, what is the name of Geet's first love?",
       "answer": [
-        "Lextopia",
-        "New Metropolis",
-        "New Krypton",
-        "Vista del Lex"
+        "Aakash",
+        "Aakash",
+        "Anshuman",
+        "Avirudh"
       ],
-      "correctAnswer": "New Krypton"
+      "correctAnswer": "Anshuman"
     },
     {
-      "question": "In Superman, what song is playing in Brad’s car as Clark runs up to the Kent farm?",
+      "question": "In Chak De! India, how many minutes, according to coach Kabir Khan, does the team have?",
       "answer": [
-        "“Rock Around the Clock”",
-        "“See You Later, Alligator”",
-        "“Crazy Man, Crazy”",
-        "“Shake, Rattle and Roll”"
+        "90",
+        "45",
+        "30",
+        "70"
       ],
-      "correctAnswer": "“Rock Around the Clock”"
+      "correctAnswer": "70"
     },
     {
-      "question": "What is Metropolis’s nickname according to Superman III?",
+      "question": "In Chak De! India, how many minutes, according to coach Kabir Khan, does the team have?",
       "answer": [
-        "The Big Apricot",
-        "The City of Tomorrow",
-        "The City That Never Shuts Downr",
-        "The Big Lemon Drop"
+        "Chatur Ramalingam",
+        "Phunsukh Wangdu",
+        "Ranchhoddas Shamaldas Chanchad",
+        "Viru Sahastrabuddhe"
       ],
-      "correctAnswer": "The Big Apricot"
+      "correctAnswer": "Phunsukh Wangdu"
     },
     {
-      "question": "Which of the following actors was not cast as Dick Grayson in a Batman film?",
+      "question": "What is the name of the lead female character in Dilwale Dulhania Le Jayenge?",
       "answer": [
-        "Jerry O’Connell",
-        "Marlon Wayans",
-        "Chris O’Donnell",
-        "Ricky Addison Reed"
+        "Simran",
+        "Pooja",
+        "Senorita",
+        "Sunita"
       ],
-      "correctAnswer": "Jerry O’Connell"
+      "correctAnswer": "Simran"
     },
     {
-      "question": "The 1989 Batmobile was built over which make and model of car?",
+      "question": "Finish the quote from Deewar: \"Mere paas _____.\"",
       "answer": [
-        "Jaguar XJS",
-        "Pontiac Firebird",
-        "Chevy Impala",
-        "Ford Mustang"
+        "Ghar Hai",
+        "Paisa Hai",
+        "Baap Hai",
+        "Maa Hai"
       ],
-      "correctAnswer": "Chevy Impala"
+      "correctAnswer": "Maa Hai"
     },
     {
-      "question": "What was the name of Penguin’s gang in Batman Returns?",
+      "question": "In Karthik Calling Karthik, who was actually calling Karthik?",
       "answer": [
-        "The Red Herring Gang",
-        "The Red Circle Gang",
-        "The Red Gang",
-        "The Red Triangle Gang"
+        "Karthik",
+        "Ravi",
+        "Kiran",
+        "Kunal"
       ],
-      "correctAnswer": "The Red Triangle Gang"
+      "correctAnswer": "Karthik"
     },
     {
-      "question": "Which of the following Batman villains appears in Batman v Superman: Dawn of Justice?",
+      "question": "In Om Shanti Om, what does Deepika Padukone's character Shantipriya do?",
       "answer": [
-        "Killer Moth",
-        "KGBeast",
-        "Lady Shiva",
-        "Anarky"
+        "Journalist",
+        "Actress",
+        "Singer",
+        "Lawyer"
       ],
-      "correctAnswer": "KGBeast"
+      "correctAnswer": "Actress"
     },
     {
-      "question": "Before he became Cyborg, Vic Stone played football for which college?",
+      "question": "Which cities does Rani visit when she goes on her 'solo' honeymoon in Queen?",
       "answer": [
-        "Gotham City University",
-        "Gotham State University",
-        "Smallville A&M",
-        "Metropolis College"
+        "Londan and New York",
+        "Paris and London",
+        "Paris and Amsterdam",
+        "Tokyo and Shanghai"
       ],
-      "correctAnswer": "Gotham City University"
+      "correctAnswer": "Paris and Amsterdam"
     },
     {
-      "question": "Which DC villain is Justice League big bad Steppenwolf related to?",
+      "question": "What is Bunny's real name?",
       "answer": [
-        "Darkseid",
-        "Mongul",
-        "The Anti-Monitor",
-        "Parallax"
+        "Kabir Singh",
+        "Kabir Gupta",
+        "Kabir Thapar",
+        "Kabir Agrawal"
       ],
-      "correctAnswer": "Darkseid"
+      "correctAnswer": "Kabir Thapar"
+    },{
+      "question": "What game do they play on the train?",
+      "answer": [
+        "Hide and Seek",
+        "Truth and Dare",
+        "Antakshari",
+        "Never Have I Ever"
+      ],
+      "correctAnswer": "Never Have I Ever"
     },
     {
-      "question": "Which facility houses the criminals featured in Suicide Squad?",
+      "question": "What is Avi's full name?",
       "answer": [
-        "Iron Heights",
-        "Stryker’s Island Penitentiary",
-        "Belle Reve Special Security Barracks",
-        "Arkham Asylum"
+        "Aditya Roy Kapur",
+        "Avinash Shiv",
+        "Avram Mukherjee",
+        "Avinash Choudhary"
       ],
-      "correctAnswer": "Belle Reve Special Security Barracks"
+      "correctAnswer": "Avinash Shiv"
     },
     {
-      "question": "Which villain makes a brief cameo in the Justice League stinger scene?",
+      "question": "What kind of dog does Naina have?",
       "answer": [
-        "Deathbringer",
-        "Deathstroke",
-        "Deathstorm",
-        "Deadshot"
+        "Golden Retriever",
+        "Pug",
+        "Chihuahua",
+        "Labrador"
       ],
-      "correctAnswer": "Deathstroke"
-    }
+      "correctAnswer": "Pug"
+    },
+    {
+      "question": "What's the name of Madhuri Dixit's character",
+      "answer": [
+        "Mohini",
+        "Munni",
+        "Sheela",
+        "Sohini"
+      ],
+      "correctAnswer": "Mohini"
+    },
+    {
+      "question": "What song do Bunny and Avi wake Aditi with?",
+      "answer": [
+        "Ek Chumma to mujhko udhaar de de",
+        "Jumma Chumma De De",
+        "Chahe Koi Mujhe Junglee Kahe",
+        "Yeh Mera Dil"
+      ],
+      "correctAnswer": "Jumma Chumma De De"
+    },
+    {
+      "question": "When climbing up to the Bhairav Mandir, what alcohol does Bunny give Naina?",
+      "answer": [
+        "Naina doesn't drink!",
+        "Whiskey",
+        "Lugdi",
+        "Old Monk"
+      ],
+      "correctAnswer": "Lugdi"
+    },
+    {
+      "question": "What animal did Naina and Bunny spot on the hill?",
+      "answer": [
+        "A Lion",
+        "A Bear",
+        "A Tiger",
+        "A Deer"
+      ],
+      "correctAnswer": "A Deer"
+    },
+    {
+      "question": "What college did Bunny get accepted to?",
+      "answer": [
+        "Northwestern University",
+        "University of Chicago",
+        "Stanford University",
+        "Columbia University"
+      ],
+      "correctAnswer": "Northwestern University"
+    },
+    {
+      "question": "Where in the world is Aditi's wedding?",
+      "answer": [
+        "Delhi",
+        "Udaipur",
+        "Jaipur",
+        "Jodhpur"
+      ],
+      "correctAnswer": "Udaipur"
+    },
+    {
+      "question": "Nayak launch on?",
+      "answer": [
+        "2004",
+        "2001",
+        "2000",
+        "2002"
+      ],
+      "correctAnswer": "2001"
+    },
+    {
+      "question": "Lakshya launch on?",
+      "answer": [
+        "2004",
+        "2002",
+        "2003",
+        "2001"
+      ],
+      "correctAnswer": "2004"
+    },
+    {
+      "question": "3 idiots launch date?",
+      "answer": [
+        "2014",
+        "2009",
+        "2011",
+        "2010"
+      ],
+      "correctAnswer": "2009"
+    },
+    {
+      "question": "Lagaan launch date?",
+      "answer": [
+        "2002",
+        "2001",
+        "2005",
+        "2009"
+      ],
+      "correctAnswer": "2002"
+    },
+    {
+      "question": "Mother India launch date?",
+      "answer": [
+        "1955",
+        "1958",
+        "1960",
+        "1949"
+      ],
+      "correctAnswer": "1958"
+    },
+    {
+      "question": "Saaho launch date?",
+      "answer": [
+        "2018",
+        "2016",
+        "2021",
+        "2019"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Gandhi launch date?",
+      "answer": [
+        "1985",
+        "1980",
+        "1983",
+        "1987"
+      ],
+      "correctAnswer": "1983"
+    },
+    {
+      "question": "War launched on?",
+      "answer": [
+        "2018",
+        "2017",
+        "2020",
+        "2019"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Mission Mangal launched on?",
+      "answer": [
+        "2019",
+        "2018",
+        "2015",
+        "2016"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Housefull 4 launched on?",
+      "answer": [
+        "2019",
+        "2016",
+        "2021",
+        "2020"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Dabangg 3 launched on?",
+      "answer": [
+        "2016",
+        "2019",
+        "2015",
+        "2020"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Gully Boy launched on?",
+      "answer": [
+        "2020",
+        "2019",
+        "2021",
+        "2015"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Good Newwz launched on?",
+      "answer": [
+        "2018",
+        "2016",
+        "2019",
+        "2021"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Bharat launched on?",
+      "answer": [
+        "2019",
+        "2020",
+        "2021",
+        "2018"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Uri: The Surgical Strike launched on?",
+      "answer": [
+        "2020",
+        "2016",
+        "2017",
+        "2019"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Krrish 3 launched on?",
+      "answer": [
+        "2011",
+        "2013",
+        "2016",
+        "2012"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Raanjhanaa launched on?",
+      "answer": [
+        "2010",
+        "2013",
+        "2012",
+        "2015"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Yeh Jawaani Hai Deewani launched on?",
+      "answer": [
+        "2015",
+        "2018",
+        "2013",
+        "2019"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Bhaag Milkha Bhaag launched on?",
+      "answer": [
+        "2013",
+        "2018",
+        "2016",
+        "2015"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Race 2 launched on?",
+      "answer": [
+        "2009",
+        "2010",
+        "2013",
+        "2015"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Dhoom 3 launched at?",
+      "answer": [
+        "2013",
+        "2014",
+        "2016",
+        "2010"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Dilwale launched at?",
+      "answer": [
+        "2010",
+        "2015",
+        "2016",
+        "2014"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Bajrangi Bhaijaan launched at?",
+      "answer": [
+        "2015",
+        "2014",
+        "2016",
+        "2013"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Prem Ratan Dhan Payo launched at?",
+      "answer": [
+        "2018",
+        "2016",
+        "2017",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Bajirao Mastani launched at?",
+      "answer": [
+        "2015",
+        "2016",
+        "2018",
+        "2010"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Welcome Back launched at?",
+      "answer": [
+        "2020",
+        "2018",
+        "2015",
+        "2016"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "ABCD 2 launched at?",
+      "answer": [
+        "2014",
+        "2013",
+        "2012",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Dil Dhadakne Do launched at?",
+      "answer": [
+        "2017",
+        "2016",
+        "2010",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Baby launched at?",
+      "answer": [
+        "2015",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Roy launched at?",
+      "answer": [
+        "2015",
+        "2016",
+        "2018",
+        "2016"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "NH10 launched at?",
+      "answer": [
+        "2016",
+        "2018",
+        "2015",
+        "2014"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Piku launched at?",
+      "answer": [
+        "2016",
+        "2018",
+        "2015",
+        "2014"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Drishyam launched at?",
+      "answer": [
+        "2013",
+        "2015",
+        "2017",
+        "2018"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Singh Is Bliing launched at?",
+      "answer": [
+        "2014",
+        "2017",
+        "2013",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Talvar launched at?",
+      "answer": [
+        "2018",
+        "2016",
+        "2014",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Hate Story 3 launched at?",
+      "answer": [
+        "2014",
+        "2015",
+        "2016",
+        "2013"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Kis Kisko Pyaar Karoon launched at?",
+      "answer": [
+        "2014",
+        "2016",
+        "2018",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Kis Kisko Pyaar Karoon launched at?",
+      "answer": [
+        "2014",
+        "2016",
+        "2018",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Dabangg launched at?",
+      "answer": [
+        "2011",
+        "2009",
+        "2010",
+        "2012"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Veer launched at?",
+      "answer": [
+        "2013",
+        "2014",
+        "2015",
+        "2010"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Golmaal 3 launched at?",
+      "answer": [
+        "2010",
+        "2015",
+        "2014",
+        "2012"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Raajneeti launched at?",
+      "answer": [
+        "2015",
+        "2010",
+        "2012",
+        "2011"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Raavan launched at?",
+      "answer": [
+        "2012",
+        "2014",
+        "2010",
+        "2013"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Tees Maar Khan launched at?",
+      "answer": [
+        "2012",
+        "2013",
+        "2014",
+        "2010"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Once Upon A Time In Mumbaai launched at?",
+      "answer": [
+        "2010",
+        "2014",
+        "2011",
+        "2012"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Anjaana Anjaani launched at?",
+      "answer": [
+        "2011",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      "correctAnswer": "2010"
+    }    
   ]
 }
