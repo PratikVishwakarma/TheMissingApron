@@ -358,10 +358,10 @@
     {
       "question": "Who has directed the most MCU movies?",
       "answer": [
-        "",
+        "Peyton Ree",
         "The Russo Brothers",
-        "",
-        ""
+        "Anthony and Joe Russo",
+        "Jon Watts"
       ],
       "correctAnswer": "The Russo Brothers"
     },
@@ -369,18 +369,18 @@
       "question": "What Top Gun character is Captain America’s cat named after?",
       "answer": [
         "Goose",
-        "",
-        "",
-        ""
+        "Selmon",
+        "Zack",
+        "Gippy"
       ],
       "correctAnswer": "Goose"
     },
     {
       "question": "What is the name of the axe that is forged from the heat of a dying neutron star for Thor?",
       "answer": [
-        "",
-        "",
-        "",
+        "Hofund",
+        "Godslayer",
+        "Yaka Arrows",
         "Stormbreaker"
       ],
       "correctAnswer": "Stormbreaker"
@@ -388,10 +388,10 @@
     {
       "question": "Which film did The Aether first appear in?",
       "answer": [
-        "",
+        "Avenger 1",
         "Thor: The Dark World",
-        "",
-        ""
+        "Hulk",
+        "Iron Man 1"
       ],
       "correctAnswer": "Thor: The Dark World"
     },
@@ -408,7 +408,7 @@
     {
       "question": "What is the name of the organisation revealed to have taken over S.H.I.E.L.D. in Captain America: The Winter Soldier?",
       "answer": [
-        "",
+        "Mirage",
         "Kree",
         "Hydra",
         "Area 51"
@@ -424,6 +424,126 @@
         "The Avengers"
       ],
       "correctAnswer": "Avengers: Endgame"
+    },
+    {
+      "question": "When Iron Man 2 launched?",
+      "answer": [
+        "2014",
+        "2015",
+        "2010",
+        "2013"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "When Iron Man launched?",
+      "answer": [
+        "2010",
+        "2009",
+        "2008",
+        "2007"
+      ],
+      "correctAnswer": "2008"
+    },
+    {
+      "question": "When The Incredible Hulk launched?",
+      "answer": [
+        "2010",
+        "2008",
+        "2009",
+        "2006"
+      ],
+      "correctAnswer": "2008"
+    },
+    {
+      "question": "When Marvel's The Avengers launched?",
+      "answer": [
+        "2011",
+        "2010",
+        "2013",
+        "2012"
+      ],
+      "correctAnswer": "2012"
+    },
+    {
+      "question": "When Thor launched?",
+      "answer": [
+        "2015",
+        "2014",
+        "2011",
+        "2012"
+      ],
+      "correctAnswer": "2011"
+    },
+    {
+      "question": "When Captain America: The First Avenger launched?",
+      "answer": [
+        "2013",
+        "2015",
+        "2012",
+        "2011"
+      ],
+      "correctAnswer": "2011"
+    },
+    {
+      "question": "When Iron Man 3 launched?",
+      "answer": [
+        "2014",
+        "2016",
+        "2013",
+        "2010"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "When Ant-Man launched?",
+      "answer": [
+        "2014",
+        "2015",
+        "2012",
+        "2016"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "When Captain America: The Winter Soldier launched?",
+      "answer": [
+        "2015",
+        "2016",
+        "2017",
+        "2014"
+      ],
+      "correctAnswer": "2014"
+    },
+    {
+      "question": "When Thor: The Dark World launched?",
+      "answer": [
+        "2012",
+        "2010",
+        "2009",
+        "2013"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "When Avengers: Age of Ultron World launched?",
+      "answer": [
+        "2012",
+        "2015",
+        "2011",
+        "2013"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "When Guardians of the Galaxy launched?",
+      "answer": [
+        "2012",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      "correctAnswer": "2014"
     }
   ]
 }

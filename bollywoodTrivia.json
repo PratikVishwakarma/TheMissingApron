@@ -658,6 +658,158 @@
         "2008"
       ],
       "correctAnswer": "2010"
+    },
+    {
+      "question": "What is Lucky Singh’s assistant’s name in Lage Raho Munna Bhai?",
+      "answer": [
+        "Kuku",
+        "Gujju",
+        "Munna",
+        "Circuit"
+      ],
+      "correctAnswer": "Kuku"
+    },
+    {
+      "question": "What is the name of the radio station Jhanvi works at, in Lage Raho Munna Bhai?",
+      "answer": [
+        "102.6 RADIO MUMBAI",
+        "World Space Radio",
+        "Radio City",
+        "93.5 Red FM"
+      ],
+      "correctAnswer": "World Space Radio"
+    },
+    {
+      "question": "How many senior citizens live at the Second Innings House, in Lage Raho Munna Bhai?",
+      "answer": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "What is Lucky Singh’s official name, in Lage Raho Munna Bhai?",
+      "answer": [
+        "Mohan Singh",
+        "Lakhan Singh",
+        "Milkha Singh",
+        "Laal Singh"
+      ],
+      "correctAnswer": "Lakhan Singh"
+    },
+    {
+      "question": "What flowers do the Kkhuranas consider unlucky, in Lage Raho Munna Bhai?",
+      "answer": [
+        "Rose",
+        "Mogra",
+        "Jasmine",
+        "Lilly"
+      ],
+      "correctAnswer": "Rose"
+    },
+    {
+      "question": "who say “Uth re tereko sorry bolne ka hai.”, in Lage Raho Munna Bhai?",
+      "answer": [
+        "Lucky",
+        "Baapu",
+        "Munna",
+        "Circuit"
+      ],
+      "correctAnswer": "Circuit"
+    },
+    {
+      "question": "The first song to play in the film in Lagaan?",
+      "answer": [
+        "Radha kaise na jale",
+        "O re Chori",
+        "Ghanan Ghanan",
+        "Mitwa"
+      ],
+      "correctAnswer": "Ghanan Ghanan"
+    },
+    {
+      "question": "Where is the story set, in Lagaan?",
+      "answer": [
+        "Champaner Village",
+        "Khavda Village",
+        "Ramghar Village",
+        "Bhuj Village"
+      ],
+      "correctAnswer": "Champaner Village"
+    },
+    {
+      "question": "What’s the name of the king of the village, in Lagaan?",
+      "answer": [
+        "Surya Pratap Singh",
+        "Rajdeep Singh Chawla",
+        "Puran Singh Chawla",
+        "Uday Singh Chawla"
+      ],
+      "correctAnswer": "Puran Singh Chawla"
+    },
+    {
+      "question": "Who’s the spinner in Bhuvan’s team, in Lagaan?",
+      "answer": [
+        "Lakha",
+        "Kachra",
+        "Guran",
+        "Bhuvan"
+      ],
+      "correctAnswer": "Kachra"
+    },
+    {
+      "question": "Who has a clumsy hand while fielding, in Lagaan?",
+      "answer": [
+        "Bhura",
+        "Guran",
+        "Bagha",
+        "Lakha"
+      ],
+      "correctAnswer": "Bagha"
+    },
+    {
+      "question": "Who takes a hattrick from Bhuvan’s team, in Lagaan?",
+      "answer": [
+        "Wife",
+        "Fiance",
+        "Mother",
+        "Sister"
+      ],
+      "correctAnswer": "Sister"
+    },
+    {
+      "question": "By what nickname does Amrish Puri call Farida Jalal in DDLJ?",
+      "answer": [
+        "Lajjo",
+        "Piyo",
+        "Ladho",
+        "Raani"
+      ],
+      "correctAnswer": "Lajjo"
+    },
+    {
+      "question": "In which area of London does Raj stay in DDLJ?",
+      "answer": [
+        "Hampsted",
+        "Hampton",
+        "Ickenham",
+        "Canary Wharf"
+      ],
+      "correctAnswer": "Hampsted"
+    },
+    {
+      "question": "What is Rajesh’s hobby in Hum Aapke Hain Koun?",
+      "answer": [
+        "Poetry",
+        "Painting",
+        "Dancing",
+        "Singing"
+      ],
+      "correctAnswer": "Painting"
     }    
   ]
 }
+
+
