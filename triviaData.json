@@ -544,6 +544,206 @@
         "2013"
       ],
       "correctAnswer": "2014"
+    },
+    {
+      "question": "When Captain America: Civil War launched?",
+      "answer": [
+        "2012",
+        "2015",
+        "2014",
+        "2016"
+      ],
+      "correctAnswer": "2016"
+    },
+    {
+      "question": "When Doctor Strange launched?",
+      "answer": [
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      "correctAnswer": "2016"
+    },
+    {
+      "question": "When Guardians of the Galaxy Vol. 2 launched?",
+      "answer": [
+        "2012",
+        "2015",
+        "2014",
+        "2017"
+      ],
+      "correctAnswer": "2017"
+    },
+    {
+      "question": "When Spider-Man: Homecoming launched?",
+      "answer": [
+        "2017",
+        "2015",
+        "2014",
+        "2013"
+      ],
+      "correctAnswer": "2017"
+    },
+    {
+      "question": "When Thor: Ragnarok launched?",
+      "answer": [
+        "2013",
+        "2016",
+        "2014",
+        "2017"
+      ],
+      "correctAnswer": "2017"
+    },
+    {
+      "question": "When Black Panther launched?",
+      "answer": [
+        "2020",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "correctAnswer": "2018"
+    },
+    {
+      "question": "When Avengers: Infinity War launched?",
+      "answer": [
+        "2018",
+        "2019",
+        "2016",
+        "2020"
+      ],
+      "correctAnswer": "2018"
+    },
+    {
+      "question": "When Ant-Man and the Wasp launched?",
+      "answer": [
+        "2021",
+        "2018",
+        "2016",
+        "2019"
+      ],
+      "correctAnswer": "2018"
+    },
+    {
+      "question": "When Captain Marvel launched?",
+      "answer": [
+        "2021",
+        "2020",
+        "2019",
+        "2018"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "When Avengers: Endgame launched?",
+      "answer": [
+        "2018",
+        "2021",
+        "2020",
+        "2019"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "When Spider-Man: Far From Home launched?",
+      "answer": [
+        "2017",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Character name of “Hulk” ?",
+      "answer": [
+        "Clint Barton",
+        "Sharon Carter",
+        "Carol Danvers",
+        "Bruce Banner"
+      ],
+      "correctAnswer": "Bruce Banner"
+    },
+    {
+      "question": "Character name of “Winter Soldier” ?",
+      "answer": [
+        "Clint Barton",
+        "James Bucky Barnes",
+        "Tony Stark",
+        "Bruce Banner"
+      ],
+      "correctAnswer": "Bruce Banner"
+    },
+    {
+      "question": "Character name of “Star-Lord” ?",
+      "answer": [
+        "Tony Stark",
+        "Sharon Carter",
+        "Peter Quill",
+        "Steve Rogers"
+      ],
+      "correctAnswer": "Peter Quill"
+    },
+    {
+      "question": "Character name of “Captain America” ?",
+      "answer": [
+        "Clint Barton",
+        "Sharon Carter",
+        "James Rhodey Rhodes",
+        "Steve Rogers"
+      ],
+      "correctAnswer": "Steve Rogers"
+    },
+    {
+      "question": "Character name of “Iron Man” ?",
+      "answer": [
+        "Bruce Banner",
+        "Tony Stark",
+        "James Rhodey Rhodes",
+        "Steve Rogers"
+      ],
+      "correctAnswer": "Tony Stark"
+    },
+    {
+      "question": "Character name of “War Machine / Iron Patriot” ?",
+      "answer": [
+        "Bruce Banner",
+        "J.A.R.V.I.S.",
+        "James Rhodey Rhodes",
+        "Taneleer Tivan"
+      ],
+      "correctAnswer": "James Rhodey Rhodes"
+    },
+    {
+      "question": "Character name of “Falcon” ?",
+      "answer": [
+        "Sam Wilson",
+        "J.A.R.V.I.S.",
+        "Stephen Strange",
+        "Taneleer Tivan"
+      ],
+      "correctAnswer": "Sam Wilson"
+    },
+    {
+      "question": "Character name of “Black Widow” ?",
+      "answer": [
+        "Sam Wilson",
+        "Maggie",
+        "Natasha Romanoff",
+        "Carol Danvers"
+      ],
+      "correctAnswer": "Natasha Romanoff"
+    },
+    {
+      "question": "Character name of “Collector” ?",
+      "answer": [
+        "Wong",
+        "Erik Selvig",
+        "Ronan the Accuser",
+        "Taneleer Tivan"
+      ],
+      "correctAnswer": "Taneleer Tivan"
     }
   ]
 }
