@@ -744,6 +744,16 @@
         "Taneleer Tivan"
       ],
       "correctAnswer": "Taneleer Tivan"
+    },
+    {
+      "question": "The correct order of trigger words to activate Bucky Barne's brainwashing:",
+      "answer": [
+        "Longing, furnace, daybreak, rusted, seventeen,...",
+        "Longing, rusted, furnace, daybreak, seventeen,...",
+        "Longing, daybreak, furnace, seventeen, rusted,...",
+        "Longing, rusted, daybreak, furnace, seventeen,..."
+      ],
+      "correctAnswer": "Longing, rusted, furnace, daybreak, seventeen,..."
     }
   ]
 }

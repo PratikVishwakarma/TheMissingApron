@@ -129,6 +129,46 @@
         "Deadshot"
       ],
       "correctAnswer": "Deathstroke"
+    },
+    {
+      "question": "Batman protects what city?",
+      "answer": [
+        "New York City",
+        "Metropolis",
+        "Gotham City",
+        "Chicago"
+      ],
+      "correctAnswer": "Gotham City"
+    },
+    {
+      "question": "What is the name of Batman's secret identity?",
+      "answer": [
+        "The Dark Knight",
+        "Bruce Wayne",
+        "Clark Kent",
+        "Bruce Davis"
+      ],
+      "correctAnswer": "Bruce Wayne"
+    },
+    {
+      "question": "Besides Alan Scott and Hal Jordan, The Green Lantern has also used this name as a secret identity?",
+      "answer": [
+        "Barry Allen",
+        "Bruce Wayne",
+        "Clark Kent",
+        "Kyle Rayner"
+      ],
+      "correctAnswer": "Kyle Rayner"
+    },
+    {
+      "question": "In Wonder Woman 1984, what is the civil job of the main character, Diana Prince?",
+      "answer": [
+        "Archaeologist",
+        "Professor",
+        "Business women",
+        "Scientist"
+      ],
+      "correctAnswer": "Archaeologist"
     }
   ]
 }
