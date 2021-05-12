@@ -1,0 +1,174 @@
+{
+  "allQuestions": [
+    {
+      "question": "Which New York newspaper’s building and lobby stood in for The Daily Planet in Superman?",
+      "answer": [
+        "New York Daily Today",
+        "New York Daily Times",
+        "New York Daily Post",
+        "New York Daily News"
+      ],
+      "correctAnswer": "New York Daily News"
+    },
+    {
+      "question": "In Superman, where does Lex Luthor set up his lair?",
+      "answer": [
+        "In disused parts of the Lexcorp office tower",
+        "Atop the Chrysler Building (or the Metropolis equivalent)",
+        "In a forgotten, but opulent Metropolis train station",
+        "In the sciences building at Metropolis State University"
+      ],
+      "correctAnswer": "In a forgotten, but opulent Metropolis train station"
+    },
+    {
+      "question": "In Superman Returns, what is the name Lex Luthor gives his new landmass off the coast of Metropolis?",
+      "answer": [
+        "Lextopia",
+        "New Metropolis",
+        "New Krypton",
+        "Vista del Lex"
+      ],
+      "correctAnswer": "New Krypton"
+    },
+    {
+      "question": "In Superman, what song is playing in Brad’s car as Clark runs up to the Kent farm?",
+      "answer": [
+        "“Rock Around the Clock”",
+        "“See You Later, Alligator”",
+        "“Crazy Man, Crazy”",
+        "“Shake, Rattle and Roll”"
+      ],
+      "correctAnswer": "“Rock Around the Clock”"
+    },
+    {
+      "question": "What is Metropolis’s nickname according to Superman III?",
+      "answer": [
+        "The Big Apricot",
+        "The City of Tomorrow",
+        "The City That Never Shuts Downr",
+        "The Big Lemon Drop"
+      ],
+      "correctAnswer": "The Big Apricot"
+    },
+    {
+      "question": "Which of the following actors was not cast as Dick Grayson in a Batman film?",
+      "answer": [
+        "Jerry O’Connell",
+        "Marlon Wayans",
+        "Chris O’Donnell",
+        "Ricky Addison Reed"
+      ],
+      "correctAnswer": "Jerry O’Connell"
+    },
+    {
+      "question": "The 1989 Batmobile was built over which make and model of car?",
+      "answer": [
+        "Jaguar XJS",
+        "Pontiac Firebird",
+        "Chevy Impala",
+        "Ford Mustang"
+      ],
+      "correctAnswer": "Chevy Impala"
+    },
+    {
+      "question": "What was the name of Penguin’s gang in Batman Returns?",
+      "answer": [
+        "The Red Herring Gang",
+        "The Red Circle Gang",
+        "The Red Gang",
+        "The Red Triangle Gang"
+      ],
+      "correctAnswer": "The Red Triangle Gang"
+    },
+    {
+      "question": "Which of the following Batman villains appears in Batman v Superman: Dawn of Justice?",
+      "answer": [
+        "Killer Moth",
+        "KGBeast",
+        "Lady Shiva",
+        "Anarky"
+      ],
+      "correctAnswer": "KGBeast"
+    },
+    {
+      "question": "Before he became Cyborg, Vic Stone played football for which college?",
+      "answer": [
+        "Gotham City University",
+        "Gotham State University",
+        "Smallville A&M",
+        "Metropolis College"
+      ],
+      "correctAnswer": "Gotham City University"
+    },
+    {
+      "question": "Which DC villain is Justice League big bad Steppenwolf related to?",
+      "answer": [
+        "Darkseid",
+        "Mongul",
+        "The Anti-Monitor",
+        "Parallax"
+      ],
+      "correctAnswer": "Darkseid"
+    },
+    {
+      "question": "Which facility houses the criminals featured in Suicide Squad?",
+      "answer": [
+        "Iron Heights",
+        "Stryker’s Island Penitentiary",
+        "Belle Reve Special Security Barracks",
+        "Arkham Asylum"
+      ],
+      "correctAnswer": "Belle Reve Special Security Barracks"
+    },
+    {
+      "question": "Which villain makes a brief cameo in the Justice League stinger scene?",
+      "answer": [
+        "Deathbringer",
+        "Deathstroke",
+        "Deathstorm",
+        "Deadshot"
+      ],
+      "correctAnswer": "Deathstroke"
+    },
+    {
+      "question": "Batman protects what city?",
+      "answer": [
+        "New York City",
+        "Metropolis",
+        "Gotham City",
+        "Chicago"
+      ],
+      "correctAnswer": "Gotham City"
+    },
+    {
+      "question": "What is the name of Batman's secret identity?",
+      "answer": [
+        "The Dark Knight",
+        "Bruce Wayne",
+        "Clark Kent",
+        "Bruce Davis"
+      ],
+      "correctAnswer": "Bruce Wayne"
+    },
+    {
+      "question": "Besides Alan Scott and Hal Jordan, The Green Lantern has also used this name as a secret identity?",
+      "answer": [
+        "Barry Allen",
+        "Bruce Wayne",
+        "Clark Kent",
+        "Kyle Rayner"
+      ],
+      "correctAnswer": "Kyle Rayner"
+    },
+    {
+      "question": "In Wonder Woman 1984, what is the civil job of the main character, Diana Prince?",
+      "answer": [
+        "Archaeologist",
+        "Professor",
+        "Business women",
+        "Scientist"
+      ],
+      "correctAnswer": "Archaeologist"
+    }
+  ]
+}

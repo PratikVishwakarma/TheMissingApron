@@ -1,0 +1,815 @@
+{
+  "allQuestions": [
+    {
+      "question": "Which of these films was Hema Malini's directorial debut in Bollywood?",
+      "answer": [
+        "Jugnu",
+        "Dil Aashna Hai",
+        "Lal Patthar",
+        "Sholay"
+      ],
+      "correctAnswer": "Dil Aashna Hai"
+    },
+    {
+      "question": "What is the name of Sholay' s iconic villain?",
+      "answer": [
+        "Shakaal",
+        "Gabar",
+        "Kaancha",
+        "Kalia"
+      ],
+      "correctAnswer": "Gabar"
+    },
+    {
+      "question": "In Jab We Met, what is the name of Geet's first love?",
+      "answer": [
+        "Aakash",
+        "Aakash",
+        "Anshuman",
+        "Avirudh"
+      ],
+      "correctAnswer": "Anshuman"
+    },
+    {
+      "question": "In Chak De! India, how many minutes, according to coach Kabir Khan, does the team have?",
+      "answer": [
+        "90",
+        "45",
+        "30",
+        "70"
+      ],
+      "correctAnswer": "70"
+    },
+    {
+      "question": "In Chak De! India, how many minutes, according to coach Kabir Khan, does the team have?",
+      "answer": [
+        "Chatur Ramalingam",
+        "Phunsukh Wangdu",
+        "Ranchhoddas Shamaldas Chanchad",
+        "Viru Sahastrabuddhe"
+      ],
+      "correctAnswer": "Phunsukh Wangdu"
+    },
+    {
+      "question": "What is the name of the lead female character in Dilwale Dulhania Le Jayenge?",
+      "answer": [
+        "Simran",
+        "Pooja",
+        "Senorita",
+        "Sunita"
+      ],
+      "correctAnswer": "Simran"
+    },
+    {
+      "question": "Finish the quote from Deewar: \"Mere paas _____.\"",
+      "answer": [
+        "Ghar Hai",
+        "Paisa Hai",
+        "Baap Hai",
+        "Maa Hai"
+      ],
+      "correctAnswer": "Maa Hai"
+    },
+    {
+      "question": "In Karthik Calling Karthik, who was actually calling Karthik?",
+      "answer": [
+        "Karthik",
+        "Ravi",
+        "Kiran",
+        "Kunal"
+      ],
+      "correctAnswer": "Karthik"
+    },
+    {
+      "question": "In Om Shanti Om, what does Deepika Padukone's character Shantipriya do?",
+      "answer": [
+        "Journalist",
+        "Actress",
+        "Singer",
+        "Lawyer"
+      ],
+      "correctAnswer": "Actress"
+    },
+    {
+      "question": "Which cities does Rani visit when she goes on her 'solo' honeymoon in Queen?",
+      "answer": [
+        "Londan and New York",
+        "Paris and London",
+        "Paris and Amsterdam",
+        "Tokyo and Shanghai"
+      ],
+      "correctAnswer": "Paris and Amsterdam"
+    },
+    {
+      "question": "What is Bunny's real name, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "Kabir Singh",
+        "Kabir Gupta",
+        "Kabir Thapar",
+        "Kabir Agrawal"
+      ],
+      "correctAnswer": "Kabir Thapar"
+    },{
+      "question": "What game do they play on the train, Yeh Jawaani hai Deewani??",
+      "answer": [
+        "Hide and Seek",
+        "Truth and Dare",
+        "Antakshari",
+        "Never Have I Ever"
+      ],
+      "correctAnswer": "Never Have I Ever"
+    },
+    {
+      "question": "What is Avi's full name, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "Aditya Roy Kapur",
+        "Avinash Shiv",
+        "Avram Mukherjee",
+        "Avinash Choudhary"
+      ],
+      "correctAnswer": "Avinash Shiv"
+    },
+    {
+      "question": "What kind of dog does Naina have, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "Golden Retriever",
+        "Pug",
+        "Chihuahua",
+        "Labrador"
+      ],
+      "correctAnswer": "Pug"
+    },
+    {
+      "question": "What's the name of Madhuri Dixit's character, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "Mohini",
+        "Munni",
+        "Sheela",
+        "Sohini"
+      ],
+      "correctAnswer": "Mohini"
+    },
+    {
+      "question": "What song do Bunny and Avi wake Aditi with, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "Ek Chumma to mujhko udhaar de de",
+        "Jumma Chumma De De",
+        "Chahe Koi Mujhe Junglee Kahe",
+        "Yeh Mera Dil"
+      ],
+      "correctAnswer": "Jumma Chumma De De"
+    },
+    {
+      "question": "When climbing up to the Bhairav Mandir, what alcohol does Bunny give Naina, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "Naina doesn't drink!",
+        "Whiskey",
+        "Lugdi",
+        "Old Monk"
+      ],
+      "correctAnswer": "Lugdi"
+    },
+    {
+      "question": "What animal did Naina and Bunny spot on the hill, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "A Lion",
+        "A Bear",
+        "A Tiger",
+        "A Deer"
+      ],
+      "correctAnswer": "A Deer"
+    },
+    {
+      "question": "What college did Bunny get accepted to, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "Northwestern University",
+        "University of Chicago",
+        "Stanford University",
+        "Columbia University"
+      ],
+      "correctAnswer": "Northwestern University"
+    },
+    {
+      "question": "Where in the world is Aditi's wedding, Yeh Jawaani hai Deewani?",
+      "answer": [
+        "Delhi",
+        "Udaipur",
+        "Jaipur",
+        "Jodhpur"
+      ],
+      "correctAnswer": "Udaipur"
+    },
+    {
+      "question": "Nayak launch on?",
+      "answer": [
+        "2004",
+        "2001",
+        "2000",
+        "2002"
+      ],
+      "correctAnswer": "2001"
+    },
+    {
+      "question": "Lakshya launch on?",
+      "answer": [
+        "2004",
+        "2002",
+        "2003",
+        "2001"
+      ],
+      "correctAnswer": "2004"
+    },
+    {
+      "question": "3 idiots launch date?",
+      "answer": [
+        "2014",
+        "2009",
+        "2011",
+        "2010"
+      ],
+      "correctAnswer": "2009"
+    },
+    {
+      "question": "Lagaan launch date?",
+      "answer": [
+        "2002",
+        "2001",
+        "2005",
+        "2009"
+      ],
+      "correctAnswer": "2002"
+    },
+    {
+      "question": "Mother India launch date?",
+      "answer": [
+        "1955",
+        "1958",
+        "1960",
+        "1949"
+      ],
+      "correctAnswer": "1958"
+    },
+    {
+      "question": "Saaho launch date?",
+      "answer": [
+        "2018",
+        "2016",
+        "2021",
+        "2019"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Gandhi launch date?",
+      "answer": [
+        "1985",
+        "1980",
+        "1983",
+        "1987"
+      ],
+      "correctAnswer": "1983"
+    },
+    {
+      "question": "War launched on?",
+      "answer": [
+        "2018",
+        "2017",
+        "2020",
+        "2019"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Mission Mangal launched on?",
+      "answer": [
+        "2019",
+        "2018",
+        "2015",
+        "2016"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Housefull 4 launched on?",
+      "answer": [
+        "2019",
+        "2016",
+        "2021",
+        "2020"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Dabangg 3 launched on?",
+      "answer": [
+        "2016",
+        "2019",
+        "2015",
+        "2020"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Gully Boy launched on?",
+      "answer": [
+        "2020",
+        "2019",
+        "2021",
+        "2015"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Good Newwz launched on?",
+      "answer": [
+        "2018",
+        "2016",
+        "2019",
+        "2021"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Bharat launched on?",
+      "answer": [
+        "2019",
+        "2020",
+        "2021",
+        "2018"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Uri: The Surgical Strike launched on?",
+      "answer": [
+        "2020",
+        "2016",
+        "2017",
+        "2019"
+      ],
+      "correctAnswer": "2019"
+    },
+    {
+      "question": "Krrish 3 launched on?",
+      "answer": [
+        "2011",
+        "2013",
+        "2016",
+        "2012"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Raanjhanaa launched on?",
+      "answer": [
+        "2010",
+        "2013",
+        "2012",
+        "2015"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Yeh Jawaani Hai Deewani launched on?",
+      "answer": [
+        "2015",
+        "2018",
+        "2013",
+        "2019"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Bhaag Milkha Bhaag launched on?",
+      "answer": [
+        "2013",
+        "2018",
+        "2016",
+        "2015"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Race 2 launched on?",
+      "answer": [
+        "2009",
+        "2010",
+        "2013",
+        "2015"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Dhoom 3 launched at?",
+      "answer": [
+        "2013",
+        "2014",
+        "2016",
+        "2010"
+      ],
+      "correctAnswer": "2013"
+    },
+    {
+      "question": "Dilwale launched at?",
+      "answer": [
+        "2010",
+        "2015",
+        "2016",
+        "2014"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Bajrangi Bhaijaan launched at?",
+      "answer": [
+        "2015",
+        "2014",
+        "2016",
+        "2013"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Prem Ratan Dhan Payo launched at?",
+      "answer": [
+        "2018",
+        "2016",
+        "2017",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Bajirao Mastani launched at?",
+      "answer": [
+        "2015",
+        "2016",
+        "2018",
+        "2010"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Welcome Back launched at?",
+      "answer": [
+        "2020",
+        "2018",
+        "2015",
+        "2016"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "ABCD 2 launched at?",
+      "answer": [
+        "2014",
+        "2013",
+        "2012",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Dil Dhadakne Do launched at?",
+      "answer": [
+        "2017",
+        "2016",
+        "2010",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Baby launched at?",
+      "answer": [
+        "2015",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Roy launched at?",
+      "answer": [
+        "2015",
+        "2016",
+        "2018",
+        "2016"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "NH10 launched at?",
+      "answer": [
+        "2016",
+        "2018",
+        "2015",
+        "2014"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Piku launched at?",
+      "answer": [
+        "2016",
+        "2018",
+        "2015",
+        "2014"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Drishyam launched at?",
+      "answer": [
+        "2013",
+        "2015",
+        "2017",
+        "2018"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Singh Is Bliing launched at?",
+      "answer": [
+        "2014",
+        "2017",
+        "2013",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Talvar launched at?",
+      "answer": [
+        "2018",
+        "2016",
+        "2014",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Hate Story 3 launched at?",
+      "answer": [
+        "2014",
+        "2015",
+        "2016",
+        "2013"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Kis Kisko Pyaar Karoon launched at?",
+      "answer": [
+        "2014",
+        "2016",
+        "2018",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Kis Kisko Pyaar Karoon launched at?",
+      "answer": [
+        "2014",
+        "2016",
+        "2018",
+        "2015"
+      ],
+      "correctAnswer": "2015"
+    },
+    {
+      "question": "Dabangg launched at?",
+      "answer": [
+        "2011",
+        "2009",
+        "2010",
+        "2012"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Veer launched at?",
+      "answer": [
+        "2013",
+        "2014",
+        "2015",
+        "2010"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Golmaal 3 launched at?",
+      "answer": [
+        "2010",
+        "2015",
+        "2014",
+        "2012"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Raajneeti launched at?",
+      "answer": [
+        "2015",
+        "2010",
+        "2012",
+        "2011"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Raavan launched at?",
+      "answer": [
+        "2012",
+        "2014",
+        "2010",
+        "2013"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Tees Maar Khan launched at?",
+      "answer": [
+        "2012",
+        "2013",
+        "2014",
+        "2010"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Once Upon A Time In Mumbaai launched at?",
+      "answer": [
+        "2010",
+        "2014",
+        "2011",
+        "2012"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "Anjaana Anjaani launched at?",
+      "answer": [
+        "2011",
+        "2010",
+        "2009",
+        "2008"
+      ],
+      "correctAnswer": "2010"
+    },
+    {
+      "question": "What is Lucky Singh’s assistant’s name in Lage Raho Munna Bhai?",
+      "answer": [
+        "Kuku",
+        "Gujju",
+        "Munna",
+        "Circuit"
+      ],
+      "correctAnswer": "Kuku"
+    },
+    {
+      "question": "What is the name of the radio station Jhanvi works at, in Lage Raho Munna Bhai?",
+      "answer": [
+        "102.6 RADIO MUMBAI",
+        "World Space Radio",
+        "Radio City",
+        "93.5 Red FM"
+      ],
+      "correctAnswer": "World Space Radio"
+    },
+    {
+      "question": "How many senior citizens live at the Second Innings House, in Lage Raho Munna Bhai?",
+      "answer": [
+        "4",
+        "6",
+        "7",
+        "5"
+      ],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "What is Lucky Singh’s official name, in Lage Raho Munna Bhai?",
+      "answer": [
+        "Mohan Singh",
+        "Lakhan Singh",
+        "Milkha Singh",
+        "Laal Singh"
+      ],
+      "correctAnswer": "Lakhan Singh"
+    },
+    {
+      "question": "What flowers do the Kkhuranas consider unlucky, in Lage Raho Munna Bhai?",
+      "answer": [
+        "Rose",
+        "Mogra",
+        "Jasmine",
+        "Lilly"
+      ],
+      "correctAnswer": "Rose"
+    },
+    {
+      "question": "who say “Uth re tereko sorry bolne ka hai.”, in Lage Raho Munna Bhai?",
+      "answer": [
+        "Lucky",
+        "Baapu",
+        "Munna",
+        "Circuit"
+      ],
+      "correctAnswer": "Circuit"
+    },
+    {
+      "question": "The first song to play in the film in Lagaan?",
+      "answer": [
+        "Radha kaise na jale",
+        "O re Chori",
+        "Ghanan Ghanan",
+        "Mitwa"
+      ],
+      "correctAnswer": "Ghanan Ghanan"
+    },
+    {
+      "question": "Where is the story set, in Lagaan?",
+      "answer": [
+        "Champaner Village",
+        "Khavda Village",
+        "Ramghar Village",
+        "Bhuj Village"
+      ],
+      "correctAnswer": "Champaner Village"
+    },
+    {
+      "question": "What’s the name of the king of the village, in Lagaan?",
+      "answer": [
+        "Surya Pratap Singh",
+        "Rajdeep Singh Chawla",
+        "Puran Singh Chawla",
+        "Uday Singh Chawla"
+      ],
+      "correctAnswer": "Puran Singh Chawla"
+    },
+    {
+      "question": "Who’s the spinner in Bhuvan’s team, in Lagaan?",
+      "answer": [
+        "Lakha",
+        "Kachra",
+        "Guran",
+        "Bhuvan"
+      ],
+      "correctAnswer": "Kachra"
+    },
+    {
+      "question": "Who has a clumsy hand while fielding, in Lagaan?",
+      "answer": [
+        "Bhura",
+        "Guran",
+        "Bagha",
+        "Lakha"
+      ],
+      "correctAnswer": "Bagha"
+    },
+    {
+      "question": "Who takes a hattrick from Bhuvan’s team, in Lagaan?",
+      "answer": [
+        "Wife",
+        "Fiance",
+        "Mother",
+        "Sister"
+      ],
+      "correctAnswer": "Sister"
+    },
+    {
+      "question": "By what nickname does Amrish Puri call Farida Jalal in DDLJ?",
+      "answer": [
+        "Lajjo",
+        "Piyo",
+        "Ladho",
+        "Raani"
+      ],
+      "correctAnswer": "Lajjo"
+    },
+    {
+      "question": "In which area of London does Raj stay in DDLJ?",
+      "answer": [
+        "Hampsted",
+        "Hampton",
+        "Ickenham",
+        "Canary Wharf"
+      ],
+      "correctAnswer": "Hampsted"
+    },
+    {
+      "question": "What is Rajesh’s hobby in Hum Aapke Hain Koun?",
+      "answer": [
+        "Poetry",
+        "Painting",
+        "Dancing",
+        "Singing"
+      ],
+      "correctAnswer": "Painting"
+    }    
+  ]
+}
+
+
