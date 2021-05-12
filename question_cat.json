@@ -16,7 +16,7 @@
       "question_count": 10,
       "total_question": 18,
       "serverUrl": "triviaData.json",
-      "isShow": true
+      "isShow": false
     },
     {
       "id":3,
@@ -31,7 +31,7 @@
       "id":4,
       "image":"",
       "name":"Kotin Quiz",
-      "question_count": 15,
+      "question_count": 10,
       "total_question": 78,
       "serverUrl": "triviaData.json",
       "isShow": true
