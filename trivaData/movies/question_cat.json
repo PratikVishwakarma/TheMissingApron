@@ -26,15 +26,6 @@
       "total_question": 82,
       "serverUrl": "bollywoodTrivia.json",
       "isShow": true
-    },
-    {
-      "id":4,
-      "image":"",
-      "name":"Kotin Quiz",
-      "question_count": 10,
-      "total_question": 78,
-      "serverUrl": "triviaData.json",
-      "isShow": true
     }
   ]
 }

@@ -2,38 +2,11 @@
   "categories": [
     {
       "id":1,
-      "image":"marvel_cat_bg",
-      "name":"Marvel Cinematic",
-      "question_count": 15,
-      "total_question": 78,
-      "serverUrl": "triviaData.json",
-      "isShow": true
-    },
-    {
-      "id":2,
-      "image":"dc_cat_bg",
-      "name":"DC Universe",
-      "question_count": 10,
-      "total_question": 18,
-      "serverUrl": "triviaData.json",
-      "isShow": false
-    },
-    {
-      "id":3,
-      "image":"bollywood_cat_bg",
-      "name":"Bollywood",
-      "question_count": 15,
-      "total_question": 82,
-      "serverUrl": "bollywoodTrivia.json",
-      "isShow": true
-    },
-    {
-      "id":4,
       "image":"",
       "name":"Kotin Quiz",
       "question_count": 10,
       "total_question": 78,
-      "serverUrl": "triviaData.json",
+      "serverUrl": "kotlin.json",
       "isShow": true
     }
   ]
