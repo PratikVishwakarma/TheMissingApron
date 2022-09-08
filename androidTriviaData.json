@@ -2,7 +2,7 @@
 	"allQuestions": [{
 			"id": 0,
 			"question": "Android is -",
-			"category": " android",
+			"category": "android",
 			"answer": [
 				"a web browser",
 				"an operating system",
@@ -14,7 +14,7 @@
 		{
 			"id": 1,
 			"question": "Under which of the following Android is licensed?",
-			"category": " android",
+			"category": "android",
 			"answer": [
 				"OSS",
 				"OSS",
@@ -26,7 +26,7 @@
 		{
 			"id": 2,
 			"question": " For which of the following Android is mainly developed?",
-			"category": " android",
+			"category": "android",
 			"answer": [
 				"Mobile devices",
 				"Watch",
@@ -38,7 +38,7 @@
 		{
 			"id": 3,
 			"question": "Which of the following is the first mobile phone released that ran the Android OS?",
-			"category": " android",
+			"category": "android",
 			"answer": [
 				"Google gPhone",
 				"T - Mobile G1",
@@ -50,7 +50,7 @@
 		{
 			"id": 4,
 			"question": "Which of the following virtual machine is used by the Android operating system?",
-			"category": " android",
+			"category": "android",
 			"answer": [
 				"Simple virtual machine",
 				"JVM",
@@ -68,7 +68,7 @@
 				"Android Package Kit",
 				"None of the above"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Android Package Kit"
 		},
 		{
@@ -80,7 +80,7 @@
 				"Android Programming Interface",
 				"Android Page Interface"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Application Programming Interface"
 		},
 		{
@@ -92,7 +92,7 @@
 				"Mobile interpretive compiler (MIC)",
 				"Dalvik converter"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Dex compiler"
 		},
 		{
@@ -104,7 +104,7 @@
 				"By using system.exit() method",
 				"By using system.stop() method"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "By using the stopSelf() and stopService() method"
 		},
 		{
@@ -116,7 +116,7 @@
 				"android class",
 				"A single screen in an application with supporting java/kotlin code"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "A single screen in an application with supporting java/kotlin code"
 		},
 		{
@@ -128,7 +128,7 @@
 				"Neither (a) nor (b)",
 				"Both (a) and (b)"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Both (a) and (b)"
 		},
 		{
@@ -140,7 +140,7 @@
 				"Android debug bridge",
 				"None of the above"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Android debug bridge"
 		},
 		{
@@ -152,7 +152,7 @@
 				"Emulator included in Android SDK",
 				"All of the above"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "All of the above"
 		},
 		{
@@ -164,7 +164,7 @@
 				"Windows",
 				"MAC"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Linux"
 		},
 		{
@@ -176,7 +176,7 @@
 				"onCreate() method",
 				"onAttach() method"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "onCreate() method"
 		},
 		{
@@ -188,7 +188,7 @@
 				"onResume() method",
 				"onCreate() method"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "onBackPressed() method"
 		},
 		{
@@ -200,7 +200,7 @@
 				"Android Virtual display",
 				"Android Virtual display"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Android Virtual device"
 		},
 		{
@@ -212,7 +212,7 @@
 				"Yes",
 				"May be "
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Yes"
 		},
 		{
@@ -224,7 +224,7 @@
 				"For storing the data in the database",
 				"For sending the data from an application to another application"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "For sending the data from an application to another application"
 		},
 		{
@@ -236,7 +236,7 @@
 				"Android Asset Packaging Tool",
 				"None of the above"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Android Asset Packaging Tool"
 		},
 		{
@@ -248,7 +248,7 @@
 				"Native Design Kit",
 				"None of the above"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Native Development Kit"
 		},
 		{
@@ -260,7 +260,7 @@
 				"XML",
 				"None of the above"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Java source code"
 		},
 		{
@@ -272,7 +272,7 @@
 				"onClick",
 				"onClicked"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "onClick"
 		},
 		{
@@ -284,7 +284,7 @@
 				"Service",
 				"Intent"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Fragment"
 		},
 		{
@@ -296,7 +296,7 @@
 				"CPU",
 				"Memory"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Logcat"
 		},
 		{
@@ -308,7 +308,7 @@
 				"Applications",
 				"Linux Kernel"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Applications"
 		},
 		{
@@ -320,7 +320,7 @@
 				"Linux Kernel",
 				"System Libraries and Android Runtime"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Linux Kernel"
 		},
 		{
@@ -332,7 +332,7 @@
 				"App assests",
 				"Permission that the application requires"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Permission that the application requires"
 		},
 		{
@@ -344,7 +344,7 @@
 				"Running",
 				"Start"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Paused"
 		},
 		{
@@ -356,7 +356,7 @@
 				"Donut",
 				"Cupcake"
 			],
-			"category": " android",
+			"category": "android",
 			"correctAnswer": "Muffin"
 		},
 		{
