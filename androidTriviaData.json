@@ -1,8 +1,8 @@
-{
-  "allQuestions": [
+[
   {
     "id": 0,
     "question": "Android is -",
+    "category": "android",
     "answer": [
       "a web browser",
       "an operating system",
@@ -14,6 +14,7 @@
   {
     "id": 1,
     "question": "Under which of the following Android is licensed?",
+    "category": "android",
     "answer": [
       "OSS",
       "OSS",
@@ -25,6 +26,7 @@
   {
     "id": 2,
     "question": " For which of the following Android is mainly developed?",
+    "category": "android",
     "answer": [
       "Mobile devices",
       "Watch",
@@ -36,6 +38,7 @@
   {
     "id": 3,
     "question": "Which of the following is the first mobile phone released that ran the Android OS?",
+    "category": "android",
     "answer": [
       "Google gPhone",
       "T - Mobile G1",
@@ -47,6 +50,7 @@
   {
     "id": 4,
     "question": "Which of the following virtual machine is used by the Android operating system?",
+    "category": "android",
     "answer": [
       "Simple virtual machine",
       "JVM",
@@ -58,6 +62,7 @@
   {
     "id": 5,
     "question": "APK stands for -",
+    "category": "android",
     "answer": [
       "Android Page Kit",
       "Android Phone Kit",
@@ -69,6 +74,7 @@
   {
     "id": 6,
     "question": "What does API stand for?",
+    "category": "android",
     "answer": [
       "Application Page Interface",
       "Application Programming Interface",
@@ -80,6 +86,7 @@
   {
     "id": 7,
     "question": "Which of the following converts Java byte code into Dalvik byte code?",
+    "category": "android",
     "answer": [
       "Dex compiler",
       "Virtual Machine",
@@ -91,6 +98,7 @@
   {
     "id": 8,
     "question": "How can we stop the services in android?",
+    "category": "android",
     "answer": [
       "By using system.exit() method",
       "By using the stopSelf() and stopService() method",
@@ -102,6 +110,7 @@
   {
     "id": 9,
     "question": "What is an activity in android?",
+    "category": "android",
     "answer": [
       "android package",
       "android resourse",
@@ -113,6 +122,7 @@
   {
     "id": 10,
     "question": "How can we kill an activity in android?",
+    "category": "android",
     "answer": [
       "Using finishActivity(int requestCode)",
       "Using finish() method",
@@ -124,6 +134,7 @@
   {
     "id": 11,
     "question": "ADB stands for -",
+    "category": "android",
     "answer": [
       "Android destroy bridge",
       "Android delete bridge",
@@ -141,6 +152,7 @@
       "Emulator included in Android SDK",
       "All of the above"
     ],
+    "category": "android",
     "correctAnswer": "All of the above"
   },
   {
@@ -152,6 +164,7 @@
       "Windows",
       "MAC"
     ],
+    "category": "android",
     "correctAnswer": "Linux"
   },
   {
@@ -163,6 +176,7 @@
       "onCreate() method",
       "onAttach() method"
     ],
+    "category": "android",
     "correctAnswer": "onCreate() method"
   },
   {
@@ -174,6 +188,7 @@
       "onResume() method",
       "onCreate() method"
     ],
+    "category": "android",
     "correctAnswer": "onBackPressed() method"
   },
   {
@@ -183,8 +198,9 @@
       "Android Virtual device",
       "Active Virtual display",
       "Android Virtual display",
-      "Active Virtual device"
+      "Android Virtual display"
     ],
+    "category": "android",
     "correctAnswer": "Android Virtual device"
   },
   {
@@ -196,6 +212,7 @@
       "Yes",
       "May be "
     ],
+    "category": "android",
     "correctAnswer": "Yes"
   },
   {
@@ -207,6 +224,7 @@
       "For storing the data in the database",
       "For sending the data from an application to another application"
     ],
+    "category": "android",
     "correctAnswer": "For sending the data from an application to another application"
   },
   {
@@ -229,6 +247,7 @@
       "Native Design Kit",
       "None of the above"
     ],
+    "category": "android",
     "correctAnswer": "Native Development Kit"
   },
   {
@@ -240,6 +259,7 @@
       "XML",
       "None of the above"
     ],
+    "category": "android",
     "correctAnswer": "Java source code"
   },
   {
@@ -251,6 +271,7 @@
       "onClick",
       "onClicked"
     ],
+    "category": "android",
     "correctAnswer": "onClick"
   },
   {
@@ -262,6 +283,7 @@
       "Service",
       "Intent"
     ],
+    "category": "android",
     "correctAnswer": "Fragment"
   },
   {
@@ -273,6 +295,7 @@
       "CPU",
       "Memory"
     ],
+    "category": "android",
     "correctAnswer": "Logcat"
   },
   {
@@ -284,6 +307,7 @@
       "Applications",
       "Linux Kernel"
     ],
+    "category": "android",
     "correctAnswer": "Applications"
   },
   {
@@ -295,6 +319,7 @@
       "Linux Kernel",
       "System Libraries and Android Runtime"
     ],
+    "category": "android",
     "correctAnswer": "Linux Kernel"
   },
   {
@@ -306,6 +331,7 @@
       "App assests",
       "Permission that the application requires"
     ],
+    "category": "android",
     "correctAnswer": "Permission that the application requires"
   },
   {
@@ -317,6 +343,7 @@
       "Running",
       "Start"
     ],
+    "category": "android",
     "correctAnswer": "Paused"
   },
   {
@@ -328,6 +355,7 @@
       "Donut",
       "Cupcake"
     ],
+    "category": "android",
     "correctAnswer": "Muffin"
   },
   {
@@ -339,7 +367,19 @@
       "AlertDialog",
       "All of the above"
     ],
+    "category": "android",
+    "correctAnswer": "All of the above"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a dialog class in android?",
+    "category": "android",
+    "answer": [
+      "ProgressDialog",
+      "AlertDialog",
+      "DatePicker Dialog",
+      "All of the above"
+    ],
     "correctAnswer": "All of the above"
   }
 ]
-}
