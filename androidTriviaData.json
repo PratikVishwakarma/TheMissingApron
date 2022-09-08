@@ -1,683 +1,713 @@
 {
-	"allQuestions": [
-  {
-    "id": 0,
-    "question": "Android is -",
-    "answer": [
-      "a web browser",
-      "an operating system",
-      "a web server",
-      "None of the above"
-    ],
-    "correctAnswer": "an operating system"
-  },
-  {
-    "id": 1,
-    "question": "Under which of the following Android is licensed?",
-    "answer": [
-      "OSS",
-      "OSS",
-      "Apache/MIT",
-      "None of the above"
-    ],
-    "correctAnswer": "Apache/MIT"
-  },
-  {
-    "id": 2,
-    "question": " For which of the following Android is mainly developed?",
-    "answer": [
-      "Mobile devices",
-      "Watch",
-      "Desktops",
-      "Servers"
-    ],
-    "correctAnswer": "Mobile devices"
-  },
-  {
-    "id": 3,
-    "question": "Which of the following is the first mobile phone released that ran the Android OS?",
-    "answer": [
-      "Google gPhone",
-      "T - Mobile G1",
-      "Samsung",
-      "Motorola"
-    ],
-    "correctAnswer": "T - Mobile G1"
-  },
-  {
-    "id": 4,
-    "question": "Which of the following virtual machine is used by the Android operating system?",
-    "answer": [
-      "Simple virtual machine",
-      "JVM",
-      "Dalvik virtual machine",
-      "None of the above"
-    ],
-    "correctAnswer": "Dalvik virtual machine"
-  },
-  {
-    "id": 5,
-    "question": "APK stands for -",
-    "answer": [
-      "Android Page Kit",
-      "Android Phone Kit",
-      "Android Package Kit",
-      "None of the above"
-    ],
-    "correctAnswer": "Android Package Kit"
-  },
-  {
-    "id": 6,
-    "question": "What does API stand for?",
-    "answer": [
-      "Application Page Interface",
-      "Application Programming Interface",
-      "Android Programming Interface",
-      "Android Page Interface"
-    ],
-    "correctAnswer": "Application Programming Interface"
-  },
-  {
-    "id": 7,
-    "question": "Which of the following converts Java byte code into Dalvik byte code?",
-    "answer": [
-      "Dex compiler",
-      "Virtual Machine",
-      "Mobile interpretive compiler (MIC)",
-      "Dalvik converter"
-    ],
-    "correctAnswer": "Dex compiler"
-  },
-  {
-    "id": 8,
-    "question": "How can we stop the services in android?",
-    "answer": [
-      "By using system.exit() method",
-      "By using the stopSelf() and stopService() method",
-      "By using system.exit() method",
-      "By using system.stop() method"
-    ],
-    "correctAnswer": "By using the stopSelf() and stopService() method"
-  },
-  {
-    "id": 9,
-    "question": "What is an activity in android?",
-    "answer": [
-      "android package",
-      "android resourse",
-      "android class",
-      "A single screen in an application with supporting java/kotlin code"
-    ],
-    "correctAnswer": "A single screen in an application with supporting java/kotlin code"
-  },
-  {
-    "id": 10,
-    "question": "How can we kill an activity in android?",
-    "answer": [
-      "Using finishActivity(int requestCode)",
-      "Using finish() method",
-      "Neither (a) nor (b)",
-      "Both (a) and (b)"
-    ],
-    "correctAnswer": "Both (a) and (b)"
-  },
-  {
-    "id": 11,
-    "question": "ADB stands for -",
-    "answer": [
-      "Android destroy bridge",
-      "Android delete bridge",
-      "Android debug bridge",
-      "None of the above"
-    ],
-    "correctAnswer": "Android debug bridge"
-  },
-  {
-    "id": 12,
-    "question": "On which of the following, developers can test the application, during developing the android applications?",
-    "answer": [
-      "Physical android phone",
-      "Third-party emulators",
-      "Emulator included in Android SDK",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "id": 13,
-    "question": "Which of the following kernel is used in Android?",
-    "answer": [
-      "Redhat",
-      "Linux",
-      "Windows",
-      "MAC"
-    ],
-    "correctAnswer": "Linux"
-  },
-  {
-    "id": 14,
-    "question": "Which of the following is the first callback method that is invoked by the system during an activity life-cycle?",
-    "answer": [
-      "onRestart() method",
-      "onStart() method",
-      "onCreate() method",
-      "onAttach() method"
-    ],
-    "correctAnswer": "onCreate() method"
-  },
-  {
-    "id": 15,
-    "question": "Which of the following is not an activity lifecycle callback method?",
-    "answer": [
-      "onCreate() method",
-      "onBackPressed() method",
-      "onResume() method",
-      "onCreate() method"
-    ],
-    "correctAnswer": "onBackPressed() method"
-  },
-  {
-    "id": 16,
-    "question": "We require an AVD to create an emulator. What does AVD stand for?",
-    "answer": [
-      "Android Virtual device",
-      "Active Virtual display",
-      "Android Virtual display",
-      "Android Virtual display"
-    ],
-    "correctAnswer": "Android Virtual device"
-  },
-  {
-    "id": 17,
-    "question": "Does android support other languages than java?",
-    "answer": [
-      "Can't Say",
-      "No",
-      "Yes",
-      "May be "
-    ],
-    "correctAnswer": "Yes"
-  },
-  {
-    "id": 18,
-    "question": "What is the use of content provider in Android?",
-    "answer": [
-      "For sending the data from an application to another application",
-      "For sending messages to other application",
-      "For storing the data in the database",
-      "For sending the data from an application to another application"
-    ],
-    "correctAnswer": "For sending the data from an application to another application"
-  },
-  {
-    "id": 19,
-    "question": "AAPT stands for -",
-    "answer": [
-      "Android Action Packaging Tool",
-      "Android Activity Packaging Tool",
-      "Android Asset Packaging Tool",
-      "None of the above"
-    ],
-    "correctAnswer": "Android Asset Packaging Tool"
-  },
-  {
-    "id": 20,
-    "question": "NDK stands for -",
-    "answer": [
-      "Native Development Kit",
-      "New Development kit",
-      "Native Design Kit",
-      "None of the above"
-    ],
-    "correctAnswer": "Native Development Kit"
-  },
-  {
-    "id": 21,
-    "question": "Which of the following is contained in the src folder?",
-    "answer": [
-      "Manifest",
-      "Java source code",
-      "XML",
-      "None of the above"
-    ],
-    "correctAnswer": "Java source code"
-  },
-  {
-    "id": 22,
-    "question": "Which of the following method is used to handle what happens after clicking a button?",
-    "answer": [
-      "onCreate",
-      "onSelect",
-      "onClick",
-      "onClicked"
-    ],
-    "correctAnswer": "onClick"
-  },
-  {
-    "id": 23,
-    "question": "Which of the following android component displays the part of an activity on screen?",
-    "answer": [
-      "Intent",
-      "Fragment",
-      "Service",
-      "Intent"
-    ],
-    "correctAnswer": "Fragment"
-  },
-  {
-    "id": 24,
-    "question": "In which of the following tab an error is shown?",
-    "answer": [
-      "Profiler",
-      "Logcat",
-      "CPU",
-      "Memory"
-    ],
-    "correctAnswer": "Logcat"
-  },
-  {
-    "id": 25,
-    "question": "Which of the following is the topmost layer of android architecture?",
-    "answer": [
-      "System Libraries and Android Runtime",
-      "Applications Framework",
-      "Applications",
-      "Linux Kernel"
-    ],
-    "correctAnswer": "Applications"
-  },
-  {
-    "id": 26,
-    "question": "Which of the layer is the lowest layer of android architecture?",
-    "answer": [
-      "Applications",
-      "Applications Framework",
-      "Linux Kernel",
-      "System Libraries and Android Runtime"
-    ],
-    "correctAnswer": "Linux Kernel"
-  },
-  {
-    "id": 27,
-    "question": "What is contained in manifest.xml?",
-    "answer": [
-      "List of strings used in the app",
-      "Source code",
-      "App assests",
-      "Permission that the application requires"
-    ],
-    "correctAnswer": "Permission that the application requires"
-  },
-  {
-    "id": 28,
-    "question": "Which of the following is not a state in the service lifecycle?",
-    "answer": [
-      "Paused",
-      "Destroyed",
-      "Running",
-      "Start"
-    ],
-    "correctAnswer": "Paused"
-  },
-  {
-    "id": 29,
-    "question": "Which of the following is not a nickname of any android version?",
-    "answer": [
-      "Honeycomb",
-      "Muffin",
-      "Donut",
-      "Cupcake"
-    ],
-    "correctAnswer": "Muffin"
-  },
-  {
-    "id": 30,
-    "question": "Which of the following is a dialog class in android?",
-    "answer": [
-      "AlertDialog",
-      "DatePicker Dialog",
-      "AlertDialog",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "id": 31,
-    "question": "Dummy",
-    "category": "Android",
-    "answer": [
-      "df",
-      "sd"
-    ],
-    "correctAnswer": "df",
-    "options": [
-      "df",
-      "sd"
-    ]
-  },
-  {
-    "id": 32,
-    "question": "Which of the following is a dialog class in android?",
-    "category": " android",
-    "answer": [
-      "ProgressDialog",
-      "AlertDialog",
-      "DatePicker Dialog",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "id": 33,
-    "question": "In which state the activity is, if it is not in focus, but still visible on the screen?",
-    "category": "android",
-    "answer": [
-      "Paused state",
-      "Destroyed state",
-      "Rest State",
-      "Running state"
-    ],
-    "correctAnswer": "Paused state"
-  },
-  {
-    "id": 34,
-    "question": "Which of the following is the built-in database of Android?",
-    "category": "android",
-    "answer": [
-      "Oracle",
-      "MySQL",
-      "SQLite",
-      "MongoDB"
-    ],
-    "correctAnswer": "SQLite"
-  },
-  {
-    "id": 35,
-    "question": "Android is developed by ",
-    "category": "android",
-    "answer": [
-      "Samsung",
-      "Microsoft",
-      "Google",
-      "Android Inc"
-    ],
-    "correctAnswer": "Android Inc"
-  },
-  {
-    "id": 36,
-    "question": "Android Web Browser Is Based On",
-    "category": "android",
-    "answer": [
-      "Open-source Webkit",
-      "Chrome",
-      "Firefox",
-      "Safari"
-    ],
-    "correctAnswer": "Open-source Webkit"
-  },
-  {
-    "id": 37,
-    "question": "Which Media Format Is Not Supported By Android",
-    "category": "android",
-    "answer": [
-      "AVI",
-      "MPEG",
-      "MP4",
-      "MIDI"
-    ],
-    "correctAnswer": "AVI"
-  },
-  {
-    "id": 38,
-    "question": "In Which Directory  XML Layout Files Are Stored",
-    "category": "android",
-    "answer": [
-      "/res/values",
-      "/res/layout",
-      "/assets",
-      "/src"
-    ],
-    "correctAnswer": "/res/layout"
-  },
-  {
-    "id": 39,
-    "question": "View Pager Is Used For",
-    "category": "android",
-    "answer": [
-      "Paging Down List Items",
-      "Swiping Activities",
-      "Paging Down List Items",
-      "Swiping Fragments"
-    ],
-    "correctAnswer": "Swiping Fragments"
-  },
-  {
-    "id": 40,
-    "question": "What Is JNI In Android?",
-    "category": "android",
-    "answer": [
-      "Image Editable Tool",
-      "Java Network Interface",
-      "Java Native Interface",
-      "Java Interface"
-    ],
-    "correctAnswer": "Java Native Interface"
-  },
-  {
-    "id": 41,
-    "question": "ANR in android stands for -",
-    "category": "android",
-    "answer": [
-      "Application Not Responding",
-      "Application Not Rendering",
-      "Application Not Reacting",
-      "None of the above"
-    ],
-    "correctAnswer": "Application Not Responding"
-  },
-  {
-    "id": 42,
-    "question": "All layout classes are the subclasses of -",
-    "category": "android",
-    "answer": [
-      "android.view.ViewGroup",
-      "android.view.View",
-      "android.widget",
-      "None of the above"
-    ],
-    "correctAnswer": "android.view.ViewGroup"
-  },
-  {
-    "id": 43,
-    "question": "Which of the following class in android executes the task asynchronously with your service?",
-    "category": "android",
-    "answer": [
-      "AsyncTask",
-      "SyncTask",
-      "Both of the above",
-      "Main Thread"
-    ],
-    "correctAnswer": "AsyncTask"
-  },
-  {
-    "id": 44,
-    "question": "Which of the following layout in android arranges its children into rows and columns?",
-    "category": "android",
-    "answer": [
-      "RowLayout",
-      "FrameLayout",
-      "TableLayout",
-      "LinearLayout"
-    ],
-    "correctAnswer": "TableLayout"
-  },
-  {
-    "id": 45,
-    "question": "Which of the following layout in android aligns all children either vertically or horizontally?",
-    "category": "android",
-    "answer": [
-      "LinearLayout",
-      "RelativeLayout",
-      "TableLayout",
-      "FrameLayout"
-    ],
-    "correctAnswer": "LinearLayout"
-  },
-  {
-    "id": 46,
-    "question": "What is the default value of the orientation attribute in LinearLayout?",
-    "category": "android",
-    "answer": [
-      "Vertical",
-      "Horizontal",
-      "There is no default value of orientation attribute in LinearLayout",
-      "None of the above"
-    ],
-    "correctAnswer": "Horizontal"
-  },
-  {
-    "id": 47,
-    "question": "What is the nine-patch images tool in android?",
-    "category": "android",
-    "answer": [
-      "It is an image extension tool.",
-      "It is used to change the bitmap images into nine sections",
-      "Both (a) and (b)",
-      "Both (a) and (b)"
-    ],
-    "correctAnswer": "It is used to change the bitmap images into nine sections"
-  },
-  {
-    "id": 48,
-    "question": "GCM in android stands for -",
-    "category": "android",
-    "answer": [
-      "Google Count Messaging",
-      "Google Center Messaging",
-      "Google Cloud Messaging",
-      "None of the above"
-    ],
-    "correctAnswer": "Google Cloud Messaging"
-  },
-  {
-    "id": 49,
-    "question": "Number of primitive data types in Java are?",
-    "category": "java",
-    "answer": [
-      "6",
-      "4",
-      "5",
-      "8"
-    ],
-    "correctAnswer": "8"
-  },
-  {
-    "id": 50,
-    "question": "Automatic type conversion is possible in which of the possible cases?",
-    "category": "java",
-    "answer": [
-      "Long to int",
-      "Byte to int",
-      "Int to long",
-      "Short to int"
-    ],
-    "correctAnswer": "Int to long"
-  },
-  {
-    "id": 51,
-    "question": "Select the valid statement.",
-    "category": "java",
-    "answer": [
-      "char[] ch = new char[5]",
-      "char[] ch = new char()",
-      "char[] ch = new char(5)",
-      "char[] ch = new char[]"
-    ],
-    "correctAnswer": "char[] ch = new char[5]"
-  },
-  {
-    "id": 52,
-    "question": "When an array is passed to a method, what does the method receive?",
-    "category": "java",
-    "answer": [
-      "Copy of first element",
-      "A copy of the array",
-      "Length of the array",
-      "The reference of the array"
-    ],
-    "correctAnswer": "The reference of the array"
-  },
-  {
-    "id": 53,
-    "question": "Select the valid statement to declare and initialize an array.",
-    "category": "java",
-    "answer": [
-      "int[] A = (1, 3, 5)",
-      "int[] A = {}",
-      "int[] A = {1, 3, 5}",
-      "int[][] A = {1, 3, 5}"
-    ],
-    "correctAnswer": "int[] A = {1, 3, 5}"
-  },
-  {
-    "id": 54,
-    "question": "When is the object created with new keyword?",
-    "category": "java",
-    "answer": [
-      "At run time",
-      "None",
-      "Depends on the code",
-      "At compile time"
-    ],
-    "correctAnswer": "At run time"
-  },
-  {
-    "id": 55,
-    "question": "In which of the following is toString() method defined?",
-    "category": "java",
-    "answer": [
-      "java.lang.util",
-      "java.lang.Object",
-      "java.lang.String",
-      "None"
-    ],
-    "correctAnswer": "java.lang.Object"
-  },
-  {
-    "id": 56,
-    "question": "what compareTo() returns?",
-    "category": "java",
-    "answer": [
-      "An int value",
-      "true",
-      "false",
-      "None"
-    ],
-    "correctAnswer": "An int value"
-  },
-  {
-    "id": 57,
-    "question": "\nIdentify the return type of a method that does not return any value.",
-    "category": "java",
-    "answer": [
-      "int",
-      "main",
-      "null",
-      "void"
-    ],
-    "correctAnswer": "void"
-  },
-  {
-    "id": 58,
-    "question": "Where does the system stores parameters and local variables whenever a method is invoked?",
-    "category": "java",
-    "answer": [
-      "Stack",
-      "Heap",
-      "Tree",
-      "Hash"
-    ],
-    "correctAnswer": "Stack"
-  }
-]
+	"allQuestions": [{
+			"id": 0,
+			"question": "Android is -",
+			"category": " android",
+			"answer": [
+				"a web browser",
+				"an operating system",
+				"a web server",
+				"None of the above"
+			],
+			"correctAnswer": "an operating system"
+		},
+		{
+			"id": 1,
+			"question": "Under which of the following Android is licensed?",
+			"category": " android",
+			"answer": [
+				"OSS",
+				"OSS",
+				"Apache/MIT",
+				"None of the above"
+			],
+			"correctAnswer": "Apache/MIT"
+		},
+		{
+			"id": 2,
+			"question": " For which of the following Android is mainly developed?",
+			"category": " android",
+			"answer": [
+				"Mobile devices",
+				"Watch",
+				"Desktops",
+				"Servers"
+			],
+			"correctAnswer": "Mobile devices"
+		},
+		{
+			"id": 3,
+			"question": "Which of the following is the first mobile phone released that ran the Android OS?",
+			"category": " android",
+			"answer": [
+				"Google gPhone",
+				"T - Mobile G1",
+				"Samsung",
+				"Motorola"
+			],
+			"correctAnswer": "T - Mobile G1"
+		},
+		{
+			"id": 4,
+			"question": "Which of the following virtual machine is used by the Android operating system?",
+			"category": " android",
+			"answer": [
+				"Simple virtual machine",
+				"JVM",
+				"Dalvik virtual machine",
+				"None of the above"
+			],
+			"correctAnswer": "Dalvik virtual machine"
+		},
+		{
+			"id": 5,
+			"question": "APK stands for -",
+			"answer": [
+				"Android Page Kit",
+				"Android Phone Kit",
+				"Android Package Kit",
+				"None of the above"
+			],
+			"category": " android",
+			"correctAnswer": "Android Package Kit"
+		},
+		{
+			"id": 6,
+			"question": "What does API stand for?",
+			"answer": [
+				"Application Page Interface",
+				"Application Programming Interface",
+				"Android Programming Interface",
+				"Android Page Interface"
+			],
+			"category": " android",
+			"correctAnswer": "Application Programming Interface"
+		},
+		{
+			"id": 7,
+			"question": "Which of the following converts Java byte code into Dalvik byte code?",
+			"answer": [
+				"Dex compiler",
+				"Virtual Machine",
+				"Mobile interpretive compiler (MIC)",
+				"Dalvik converter"
+			],
+			"category": " android",
+			"correctAnswer": "Dex compiler"
+		},
+		{
+			"id": 8,
+			"question": "How can we stop the services in android?",
+			"answer": [
+				"By using system.exit() method",
+				"By using the stopSelf() and stopService() method",
+				"By using system.exit() method",
+				"By using system.stop() method"
+			],
+			"category": " android",
+			"correctAnswer": "By using the stopSelf() and stopService() method"
+		},
+		{
+			"id": 9,
+			"question": "What is an activity in android?",
+			"answer": [
+				"android package",
+				"android resourse",
+				"android class",
+				"A single screen in an application with supporting java/kotlin code"
+			],
+			"category": " android",
+			"correctAnswer": "A single screen in an application with supporting java/kotlin code"
+		},
+		{
+			"id": 10,
+			"question": "How can we kill an activity in android?",
+			"answer": [
+				"Using finishActivity(int requestCode)",
+				"Using finish() method",
+				"Neither (a) nor (b)",
+				"Both (a) and (b)"
+			],
+			"category": " android",
+			"correctAnswer": "Both (a) and (b)"
+		},
+		{
+			"id": 11,
+			"question": "ADB stands for -",
+			"answer": [
+				"Android destroy bridge",
+				"Android delete bridge",
+				"Android debug bridge",
+				"None of the above"
+			],
+			"category": " android",
+			"correctAnswer": "Android debug bridge"
+		},
+		{
+			"id": 12,
+			"question": "On which of the following, developers can test the application, during developing the android applications?",
+			"answer": [
+				"Physical android phone",
+				"Third-party emulators",
+				"Emulator included in Android SDK",
+				"All of the above"
+			],
+			"category": " android",
+			"correctAnswer": "All of the above"
+		},
+		{
+			"id": 13,
+			"question": "Which of the following kernel is used in Android?",
+			"answer": [
+				"Redhat",
+				"Linux",
+				"Windows",
+				"MAC"
+			],
+			"category": " android",
+			"correctAnswer": "Linux"
+		},
+		{
+			"id": 14,
+			"question": "Which of the following is the first callback method that is invoked by the system during an activity life-cycle?",
+			"answer": [
+				"onRestart() method",
+				"onStart() method",
+				"onCreate() method",
+				"onAttach() method"
+			],
+			"category": " android",
+			"correctAnswer": "onCreate() method"
+		},
+		{
+			"id": 15,
+			"question": "Which of the following is not an activity lifecycle callback method?",
+			"answer": [
+				"onCreate() method",
+				"onBackPressed() method",
+				"onResume() method",
+				"onCreate() method"
+			],
+			"category": " android",
+			"correctAnswer": "onBackPressed() method"
+		},
+		{
+			"id": 16,
+			"question": "We require an AVD to create an emulator. What does AVD stand for?",
+			"answer": [
+				"Android Virtual device",
+				"Active Virtual display",
+				"Android Virtual display",
+				"Android Virtual display"
+			],
+			"category": " android",
+			"correctAnswer": "Android Virtual device"
+		},
+		{
+			"id": 17,
+			"question": "Does android support other languages than java?",
+			"answer": [
+				"Can't Say",
+				"No",
+				"Yes",
+				"May be "
+			],
+			"category": " android",
+			"correctAnswer": "Yes"
+		},
+		{
+			"id": 18,
+			"question": "What is the use of content provider in Android?",
+			"answer": [
+				"For sending the data from an application to another application",
+				"For sending messages to other application",
+				"For storing the data in the database",
+				"For sending the data from an application to another application"
+			],
+			"category": " android",
+			"correctAnswer": "For sending the data from an application to another application"
+		},
+		{
+			"id": 19,
+			"question": "AAPT stands for -",
+			"answer": [
+				"Android Action Packaging Tool",
+				"Android Activity Packaging Tool",
+				"Android Asset Packaging Tool",
+				"None of the above"
+			],
+			"category": " android",
+			"correctAnswer": "Android Asset Packaging Tool"
+		},
+		{
+			"id": 20,
+			"question": "NDK stands for -",
+			"answer": [
+				"Native Development Kit",
+				"New Development kit",
+				"Native Design Kit",
+				"None of the above"
+			],
+			"category": " android",
+			"correctAnswer": "Native Development Kit"
+		},
+		{
+			"id": 21,
+			"question": "Which of the following is contained in the src folder?",
+			"answer": [
+				"Manifest",
+				"Java source code",
+				"XML",
+				"None of the above"
+			],
+			"category": " android",
+			"correctAnswer": "Java source code"
+		},
+		{
+			"id": 22,
+			"question": "Which of the following method is used to handle what happens after clicking a button?",
+			"answer": [
+				"onCreate",
+				"onSelect",
+				"onClick",
+				"onClicked"
+			],
+			"category": " android",
+			"correctAnswer": "onClick"
+		},
+		{
+			"id": 23,
+			"question": "Which of the following android component displays the part of an activity on screen?",
+			"answer": [
+				"Intent",
+				"Fragment",
+				"Service",
+				"Intent"
+			],
+			"category": " android",
+			"correctAnswer": "Fragment"
+		},
+		{
+			"id": 24,
+			"question": "In which of the following tab an error is shown?",
+			"answer": [
+				"Profiler",
+				"Logcat",
+				"CPU",
+				"Memory"
+			],
+			"category": " android",
+			"correctAnswer": "Logcat"
+		},
+		{
+			"id": 25,
+			"question": "Which of the following is the topmost layer of android architecture?",
+			"answer": [
+				"System Libraries and Android Runtime",
+				"Applications Framework",
+				"Applications",
+				"Linux Kernel"
+			],
+			"category": " android",
+			"correctAnswer": "Applications"
+		},
+		{
+			"id": 26,
+			"question": "Which of the layer is the lowest layer of android architecture?",
+			"answer": [
+				"Applications",
+				"Applications Framework",
+				"Linux Kernel",
+				"System Libraries and Android Runtime"
+			],
+			"category": " android",
+			"correctAnswer": "Linux Kernel"
+		},
+		{
+			"id": 27,
+			"question": "What is contained in manifest.xml?",
+			"answer": [
+				"List of strings used in the app",
+				"Source code",
+				"App assests",
+				"Permission that the application requires"
+			],
+			"category": " android",
+			"correctAnswer": "Permission that the application requires"
+		},
+		{
+			"id": 28,
+			"question": "Which of the following is not a state in the service lifecycle?",
+			"answer": [
+				"Paused",
+				"Destroyed",
+				"Running",
+				"Start"
+			],
+			"category": " android",
+			"correctAnswer": "Paused"
+		},
+		{
+			"id": 29,
+			"question": "Which of the following is not a nickname of any android version?",
+			"answer": [
+				"Honeycomb",
+				"Muffin",
+				"Donut",
+				"Cupcake"
+			],
+			"category": " android",
+			"correctAnswer": "Muffin"
+		},
+		{
+			"id": 30,
+			"question": "Which of the following is a dialog class in android?",
+			"answer": [
+				"AlertDialog",
+				"DatePicker Dialog",
+				"AlertDialog",
+				"All of the above"
+			],
+			"category": "android",
+			"correctAnswer": "All of the above"
+		},
+		{
+			"id": 31,
+			"question": "Dummy",
+			"category": "android",
+			"answer": [
+				"df",
+				"sd"
+			],
+			"correctAnswer": "df",
+			"options": [
+				"df",
+				"sd"
+			]
+		},
+		{
+			"id": 32,
+			"question": "Which of the following is a dialog class in android?",
+			"category": "android",
+			"answer": [
+				"ProgressDialog",
+				"AlertDialog",
+				"DatePicker Dialog",
+				"All of the above"
+			],
+			"correctAnswer": "All of the above"
+		},
+		{
+			"id": 33,
+			"question": "In which state the activity is, if it is not in focus, but still visible on the screen?",
+			"category": "android",
+			"answer": [
+				"Paused state",
+				"Destroyed state",
+				"Rest State",
+				"Running state"
+			],
+			"correctAnswer": "Paused state"
+		},
+		{
+			"id": 34,
+			"question": "Which of the following is the built-in database of Android?",
+			"category": "android",
+			"answer": [
+				"Oracle",
+				"MySQL",
+				"SQLite",
+				"MongoDB"
+			],
+			"correctAnswer": "SQLite"
+		},
+		{
+			"id": 35,
+			"question": "Android is developed by ",
+			"category": "android",
+			"answer": [
+				"Samsung",
+				"Microsoft",
+				"Google",
+				"Android Inc"
+			],
+			"correctAnswer": "Android Inc"
+		},
+		{
+			"id": 36,
+			"question": "Android Web Browser Is Based On",
+			"category": "android",
+			"answer": [
+				"Open-source Webkit",
+				"Chrome",
+				"Firefox",
+				"Safari"
+			],
+			"correctAnswer": "Open-source Webkit"
+		},
+		{
+			"id": 37,
+			"question": "Which Media Format Is Not Supported By Android",
+			"category": "android",
+			"answer": [
+				"AVI",
+				"MPEG",
+				"MP4",
+				"MIDI"
+			],
+			"correctAnswer": "AVI"
+		},
+		{
+			"id": 38,
+			"question": "In Which Directory  XML Layout Files Are Stored",
+			"category": "android",
+			"answer": [
+				"/res/values",
+				"/res/layout",
+				"/assets",
+				"/src"
+			],
+			"correctAnswer": "/res/layout"
+		},
+		{
+			"id": 39,
+			"question": "View Pager Is Used For",
+			"category": "android",
+			"answer": [
+				"Paging Down List Items",
+				"Swiping Activities",
+				"Paging Down List Items",
+				"Swiping Fragments"
+			],
+			"correctAnswer": "Swiping Fragments"
+		},
+		{
+			"id": 40,
+			"question": "What Is JNI In Android?",
+			"category": "android",
+			"answer": [
+				"Image Editable Tool",
+				"Java Network Interface",
+				"Java Native Interface",
+				"Java Interface"
+			],
+			"correctAnswer": "Java Native Interface"
+		},
+		{
+			"id": 41,
+			"question": "ANR in android stands for -",
+			"category": "android",
+			"answer": [
+				"Application Not Responding",
+				"Application Not Rendering",
+				"Application Not Reacting",
+				"None of the above"
+			],
+			"correctAnswer": "Application Not Responding"
+		},
+		{
+			"id": 42,
+			"question": "All layout classes are the subclasses of -",
+			"category": "android",
+			"answer": [
+				"android.view.ViewGroup",
+				"android.view.View",
+				"android.widget",
+				"None of the above"
+			],
+			"correctAnswer": "android.view.ViewGroup"
+		},
+		{
+			"id": 43,
+			"question": "Which of the following class in android executes the task asynchronously with your service?",
+			"category": "android",
+			"answer": [
+				"AsyncTask",
+				"SyncTask",
+				"Both of the above",
+				"Main Thread"
+			],
+			"correctAnswer": "AsyncTask"
+		},
+		{
+			"id": 44,
+			"question": "Which of the following layout in android arranges its children into rows and columns?",
+			"category": "android",
+			"answer": [
+				"RowLayout",
+				"FrameLayout",
+				"TableLayout",
+				"LinearLayout"
+			],
+			"correctAnswer": "TableLayout"
+		},
+		{
+			"id": 45,
+			"question": "Which of the following layout in android aligns all children either vertically or horizontally?",
+			"category": "android",
+			"answer": [
+				"LinearLayout",
+				"RelativeLayout",
+				"TableLayout",
+				"FrameLayout"
+			],
+			"correctAnswer": "LinearLayout"
+		},
+		{
+			"id": 46,
+			"question": "What is the default value of the orientation attribute in LinearLayout?",
+			"category": "android",
+			"answer": [
+				"Vertical",
+				"Horizontal",
+				"There is no default value of orientation attribute in LinearLayout",
+				"None of the above"
+			],
+			"correctAnswer": "Horizontal"
+		},
+		{
+			"id": 47,
+			"question": "What is the nine-patch images tool in android?",
+			"category": "android",
+			"answer": [
+				"It is an image extension tool.",
+				"It is used to change the bitmap images into nine sections",
+				"Both (a) and (b)",
+				"Both (a) and (b)"
+			],
+			"correctAnswer": "It is used to change the bitmap images into nine sections"
+		},
+		{
+			"id": 48,
+			"question": "GCM in android stands for -",
+			"category": "android",
+			"answer": [
+				"Google Count Messaging",
+				"Google Center Messaging",
+				"Google Cloud Messaging",
+				"None of the above"
+			],
+			"correctAnswer": "Google Cloud Messaging"
+		},
+		{
+			"id": 49,
+			"question": "Number of primitive data types in Java are?",
+			"category": "java",
+			"answer": [
+				"6",
+				"4",
+				"5",
+				"8"
+			],
+			"correctAnswer": "8"
+		},
+		{
+			"id": 50,
+			"question": "Automatic type conversion is possible in which of the possible cases?",
+			"category": "java",
+			"answer": [
+				"Long to int",
+				"Byte to int",
+				"Int to long",
+				"Short to int"
+			],
+			"correctAnswer": "Int to long"
+		},
+		{
+			"id": 51,
+			"question": "Select the valid statement.",
+			"category": "java",
+			"answer": [
+				"char[] ch = new char[5]",
+				"char[] ch = new char()",
+				"char[] ch = new char(5)",
+				"char[] ch = new char[]"
+			],
+			"correctAnswer": "char[] ch = new char[5]"
+		},
+		{
+			"id": 52,
+			"question": "When an array is passed to a method, what does the method receive?",
+			"category": "java",
+			"answer": [
+				"Copy of first element",
+				"A copy of the array",
+				"Length of the array",
+				"The reference of the array"
+			],
+			"correctAnswer": "The reference of the array"
+		},
+		{
+			"id": 53,
+			"question": "Select the valid statement to declare and initialize an array.",
+			"category": "java",
+			"answer": [
+				"int[] A = (1, 3, 5)",
+				"int[] A = {}",
+				"int[] A = {1, 3, 5}",
+				"int[][] A = {1, 3, 5}"
+			],
+			"correctAnswer": "int[] A = {1, 3, 5}"
+		},
+		{
+			"id": 54,
+			"question": "When is the object created with new keyword?",
+			"category": "java",
+			"answer": [
+				"At run time",
+				"None",
+				"Depends on the code",
+				"At compile time"
+			],
+			"correctAnswer": "At run time"
+		},
+		{
+			"id": 55,
+			"question": "In which of the following is toString() method defined?",
+			"category": "java",
+			"answer": [
+				"java.lang.util",
+				"java.lang.Object",
+				"java.lang.String",
+				"None"
+			],
+			"correctAnswer": "java.lang.Object"
+		},
+		{
+			"id": 56,
+			"question": "what compareTo() returns?",
+			"category": "java",
+			"answer": [
+				"An int value",
+				"true",
+				"false",
+				"None"
+			],
+			"correctAnswer": "An int value"
+		},
+		{
+			"id": 57,
+			"question": "\nIdentify the return type of a method that does not return any value.",
+			"category": "java",
+			"answer": [
+				"int",
+				"main",
+				"null",
+				"void"
+			],
+			"correctAnswer": "void"
+		},
+		{
+			"id": 58,
+			"question": "Where does the system stores parameters and local variables whenever a method is invoked?",
+			"category": "java",
+			"answer": [
+				"Stack",
+				"Heap",
+				"Tree",
+				"Hash"
+			],
+			"correctAnswer": "Stack"
+		}
+	]
 }
