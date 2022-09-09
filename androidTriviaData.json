@@ -708,407 +708,407 @@
 				"Hash"
 			],
 			"correctAnswer": "Stack"
-		},{
-    "id": 0,
-    "question": "Which animal is known as the (Ship of the Desert)?",
-    "category": "gk",
-    "answer": [
-      "Camel",
-      "Dog",
-      "Horse",
-      "Lion"
-    ],
-    "correctAnswer": "Camel"
-  },
-  {
-    "id": 1,
-    "question": "How many hours are there in 1 day?",
-    "category": "gk",
-    "answer": [
-      "20 hours",
-      "24 hours",
-      "23 hours",
-      "22 hours"
-    ],
-    "correctAnswer": "24 hours"
-  },
-  {
-    "id": 2,
-    "question": "How many days are there in 1 week?",
-    "category": "gk",
-    "answer": [
-      "5 days",
-      "8 days",
-      "7 days",
-      "6 days"
-    ],
-    "correctAnswer": "7 days"
-  },
-  {
-    "id": 3,
-    "question": "How many letters are there in the English alphabet?",
-    "category": "gk",
-    "answer": [
-      "20 letters",
-      "25 letters",
-      "24 letters",
-      "26 letters"
-    ],
-    "correctAnswer": "26 letters"
-  },
-  {
-    "id": 4,
-    "question": "How many colours a rainbow have?",
-    "category": "gk",
-    "answer": [
-      "7 colours",
-      "3 colours",
-      "5 colours",
-      "6 colours"
-    ],
-    "correctAnswer": "7 colours"
-  },
-  {
-    "id": 5,
-    "question": "How many days are there in one year?",
-    "category": "gk",
-    "answer": [
-      "350 days",
-      "365 days",
-      "360 days",
-      "355 days"
-    ],
-    "correctAnswer": "365 days"
-  },
-  {
-    "id": 6,
-    "question": "How many minutes are there in one hour?",
-    "category": "gk",
-    "answer": [
-      "60 minutes",
-      "30 minutes",
-      "40 minutes",
-      "70 minutes"
-    ],
-    "correctAnswer": "60 minutes"
-  },
-  {
-    "id": 7,
-    "question": "How many centimetre are there in one meter? ",
-    "category": "gk",
-    "answer": [
-      "10 cm",
-      "100 cm",
-      "1000 cm",
-      "1 cm"
-    ],
-    "correctAnswer": "100 cm"
-  },
-  {
-    "id": 8,
-    "question": "How may meters in one kilometer?",
-    "category": "gk",
-    "answer": [
-      "100 m",
-      "500 m",
-      "1000 m",
-      "10 m"
-    ],
-    "correctAnswer": "1000 m"
-  },
-  {
-    "id": 9,
-    "question": "How many consonants are there in the English alphabet?",
-    "category": "gk",
-    "answer": [
-      "20",
-      "22",
-      "24",
-      "21"
-    ],
-    "correctAnswer": "21"
-  },
-  {
-    "id": 10,
-    "question": "How many vowels are there in the English alphabet?",
-    "category": "gk",
-    "answer": [
-      "5 vowels ",
-      "7 vowels ",
-      "8 vowels ",
-      "4 vowels "
-    ],
-    "correctAnswer": "5 vowels "
-  },
-  {
-    "id": 11,
-    "question": "Which animal is not a pet commonly?",
-    "category": "gk",
-    "answer": [
-      "A Dog",
-      "A Cat",
-      "A Goat",
-      "A Lion"
-    ],
-    "correctAnswer": "A Lion"
-  },
-  {
-    "id": 12,
-    "question": "Find the uncommon one?",
-    "category": "gk",
-    "answer": [
-      "Dog",
-      "Cat",
-      "Goat",
-      "Shark"
-    ],
-    "correctAnswer": "Shark"
-  },
-  {
-    "id": 13,
-    "question": "Find the uncommon one?",
-    "category": "gk",
-    "answer": [
-      "Cricket",
-      "Golf",
-      "Footbal",
-      "Kabaddi"
-    ],
-    "correctAnswer": "Kabaddi"
-  },
-  {
-    "id": 14,
-    "question": "Find the uncommon one?",
-    "category": "gk",
-    "answer": [
-      "Car",
-      "Mobile",
-      "Cycle",
-      "Bus"
-    ],
-    "correctAnswer": "Mobile"
-  },
-  {
-    "id": 15,
-    "question": "Animal normally known as.. King of the Jungle",
-    "category": "gk",
-    "answer": [
-      "Tiger",
-      "Fox",
-      "Lion",
-      "Elephant"
-    ],
-    "correctAnswer": "Lion"
-  },
-  {
-    "id": 16,
-    "question": "Capital of India?",
-    "category": "gk",
-    "answer": [
-      "Mumbai",
-      "New Delhi",
-      "Gandhinagar",
-      "Bihar"
-    ],
-    "correctAnswer": "New Delhi"
-  },
-  {
-    "id": 17,
-    "question": "Find the uncommon one?",
-    "category": "gk",
-    "answer": [
-      "India",
-      "China",
-      "US",
-      "Bhopal"
-    ],
-    "correctAnswer": "Bhopal"
-  },
-  {
-    "id": 18,
-    "question": "Find the uncommon one?",
-    "category": "gk",
-    "answer": [
-      "Orange",
-      "Green",
-      "Blue",
-      "Fish"
-    ],
-    "correctAnswer": "Fish"
-  },
-  {
-    "id": 19,
-    "question": "National animal of India",
-    "category": "gk",
-    "answer": [
-      "Tiger",
-      "Elephant",
-      "Horse",
-      "Lion"
-    ],
-    "correctAnswer": "Tiger"
-  },
-  {
-    "id": 20,
-    "question": "National birt of India?",
-    "category": "gk",
-    "answer": [
-      "Peacock",
-      "Pigeon",
-      "Sparrow",
-      "Eagle"
-    ],
-    "correctAnswer": "Peacock"
-  },
-  {
-    "id": 21,
-    "question": "National flower of India?",
-    "category": "gk",
-    "answer": [
-      "Rose",
-      "Lotus",
-      "Lily",
-      "Sunflower"
-    ],
-    "correctAnswer": "Lotus"
-  },
-  {
-    "id": 22,
-    "question": "National fruit of India?",
-    "category": "gk",
-    "answer": [
-      "Orange",
-      "Apple",
-      "Banana",
-      "Mango"
-    ],
-    "correctAnswer": "Mango"
-  },
-  {
-    "id": 23,
-    "question": "Name the primary colours?",
-    "category": "gk",
-    "answer": [
-      "Red, Yellow and Blue",
-      "Green, Orange and Red",
-      "Blue, White and Gray",
-      "Green, Red and White"
-    ],
-    "correctAnswer": "Red, Yellow and Blue"
-  },
-  {
-    "id": 24,
-    "question": "Smallest month of the year?",
-    "category": "gk",
-    "answer": [
-      "March",
-      "February",
-      "October",
-      "April"
-    ],
-    "correctAnswer": "February"
-  },
-  {
-    "id": 25,
-    "question": "Who was the first Prime Minister of India?",
-    "category": "gk",
-    "answer": [
-      "Indira Gandhi",
-      "Mahatma Gandhi",
-      "Sardar Vallabhbhai Patel ",
-      "Pandit Jawaharlal Nehru"
-    ],
-    "correctAnswer": "Pandit Jawaharlal Nehru"
-  },
-  {
-    "id": 26,
-    "question": "Which festival is called the festival of colours?",
-    "category": "gk",
-    "answer": [
-      "Diwali",
-      "Holi",
-      "Lohri",
-      "Rakhi"
-    ],
-    "correctAnswer": "Holi"
-  },
-  {
-    "id": 27,
-    "question": "The national aquatic animal of India?",
-    "category": "gk",
-    "answer": [
-      "River Dolphin",
-      "White cheeked shark",
-      "Starfish",
-      "Goldfish"
-    ],
-    "correctAnswer": "River Dolphin"
-  },
-  {
-    "id": 28,
-    "question": "The planet known as the Red Planet?",
-    "category": "gk",
-    "answer": [
-      "Mercury",
-      "Earth",
-      "Jupiter",
-      "Mars"
-    ],
-    "correctAnswer": "Mars"
-  },
-  {
-    "id": 29,
-    "question": "The country known as the Land of the Rising Sun?",
-    "category": "gk",
-    "answer": [
-      "Japan",
-      "India",
-      "USA",
-      "Hong Kong"
-    ],
-    "correctAnswer": "Japan",
-    "options": [
-      "Japan",
-      "India",
-      "USA",
-      "China"
-    ]
-  },
-  {
-    "id": 30,
-    "question": "How many millimeters are there in a centimeters?",
-    "category": "gk",
-    "answer": [
-      "15mm",
-      "20mm",
-      "1mm",
-      "10mm"
-    ],
-    "correctAnswer": "10mm"
-  },
-  {
-    "id": 31,
-    "question": "Name the hardest substance available on Earth?",
-    "category": "gk",
-    "answer": [
-      "Diamond",
-      "Gold",
-      "Iron",
-      "Silver"
-    ],
-    "correctAnswer": "Diamond"
-  },
-  {
-    "id": 32,
-    "question": "Name the shape that has ten sides?",
-    "category": "gk",
-    "answer": [
-      "Octagon",
-      "Decagon",
-      "Polygon",
-      "Hexagon"
-    ],
-    "correctAnswer": "Decagon"
-  }
+		}, {
+			"id": 0,
+			"question": "Which animal is known as the (Ship of the Desert)?",
+			"category": "gk",
+			"answer": [
+				"Camel",
+				"Dog",
+				"Horse",
+				"Lion"
+			],
+			"correctAnswer": "Camel"
+		},
+		{
+			"id": 1,
+			"question": "How many hours are there in 1 day?",
+			"category": "gk",
+			"answer": [
+				"20 hours",
+				"24 hours",
+				"23 hours",
+				"22 hours"
+			],
+			"correctAnswer": "24 hours"
+		},
+		{
+			"id": 2,
+			"question": "How many days are there in 1 week?",
+			"category": "gk",
+			"answer": [
+				"5 days",
+				"8 days",
+				"7 days",
+				"6 days"
+			],
+			"correctAnswer": "7 days"
+		},
+		{
+			"id": 3,
+			"question": "How many letters are there in the English alphabet?",
+			"category": "gk",
+			"answer": [
+				"20 letters",
+				"25 letters",
+				"24 letters",
+				"26 letters"
+			],
+			"correctAnswer": "26 letters"
+		},
+		{
+			"id": 4,
+			"question": "How many colours a rainbow have?",
+			"category": "gk",
+			"answer": [
+				"7 colours",
+				"3 colours",
+				"5 colours",
+				"6 colours"
+			],
+			"correctAnswer": "7 colours"
+		},
+		{
+			"id": 5,
+			"question": "How many days are there in one year?",
+			"category": "gk",
+			"answer": [
+				"350 days",
+				"365 days",
+				"360 days",
+				"355 days"
+			],
+			"correctAnswer": "365 days"
+		},
+		{
+			"id": 6,
+			"question": "How many minutes are there in one hour?",
+			"category": "gk",
+			"answer": [
+				"60 minutes",
+				"30 minutes",
+				"40 minutes",
+				"70 minutes"
+			],
+			"correctAnswer": "60 minutes"
+		},
+		{
+			"id": 7,
+			"question": "How many centimetre are there in one meter? ",
+			"category": "gk",
+			"answer": [
+				"10 cm",
+				"100 cm",
+				"1000 cm",
+				"1 cm"
+			],
+			"correctAnswer": "100 cm"
+		},
+		{
+			"id": 8,
+			"question": "How may meters in one kilometer?",
+			"category": "gk",
+			"answer": [
+				"100 m",
+				"500 m",
+				"1000 m",
+				"10 m"
+			],
+			"correctAnswer": "1000 m"
+		},
+		{
+			"id": 9,
+			"question": "How many consonants are there in the English alphabet?",
+			"category": "gk",
+			"answer": [
+				"20",
+				"22",
+				"24",
+				"21"
+			],
+			"correctAnswer": "21"
+		},
+		{
+			"id": 10,
+			"question": "How many vowels are there in the English alphabet?",
+			"category": "gk",
+			"answer": [
+				"5 vowels ",
+				"7 vowels ",
+				"8 vowels ",
+				"4 vowels "
+			],
+			"correctAnswer": "5 vowels "
+		},
+		{
+			"id": 11,
+			"question": "Which animal is not a pet commonly?",
+			"category": "gk",
+			"answer": [
+				"A Dog",
+				"A Cat",
+				"A Goat",
+				"A Lion"
+			],
+			"correctAnswer": "A Lion"
+		},
+		{
+			"id": 12,
+			"question": "Find the uncommon one?",
+			"category": "gk",
+			"answer": [
+				"Dog",
+				"Cat",
+				"Goat",
+				"Shark"
+			],
+			"correctAnswer": "Shark"
+		},
+		{
+			"id": 13,
+			"question": "Find the uncommon one?",
+			"category": "gk",
+			"answer": [
+				"Cricket",
+				"Golf",
+				"Footbal",
+				"Kabaddi"
+			],
+			"correctAnswer": "Kabaddi"
+		},
+		{
+			"id": 14,
+			"question": "Find the uncommon one?",
+			"category": "gk",
+			"answer": [
+				"Car",
+				"Mobile",
+				"Cycle",
+				"Bus"
+			],
+			"correctAnswer": "Mobile"
+		},
+		{
+			"id": 15,
+			"question": "Animal normally known as.. King of the Jungle",
+			"category": "gk",
+			"answer": [
+				"Tiger",
+				"Fox",
+				"Lion",
+				"Elephant"
+			],
+			"correctAnswer": "Lion"
+		},
+		{
+			"id": 16,
+			"question": "Capital of India?",
+			"category": "gk",
+			"answer": [
+				"Mumbai",
+				"New Delhi",
+				"Gandhinagar",
+				"Bihar"
+			],
+			"correctAnswer": "New Delhi"
+		},
+		{
+			"id": 17,
+			"question": "Find the uncommon one?",
+			"category": "gk",
+			"answer": [
+				"India",
+				"China",
+				"US",
+				"Bhopal"
+			],
+			"correctAnswer": "Bhopal"
+		},
+		{
+			"id": 18,
+			"question": "Find the uncommon one?",
+			"category": "gk",
+			"answer": [
+				"Orange",
+				"Green",
+				"Blue",
+				"Fish"
+			],
+			"correctAnswer": "Fish"
+		},
+		{
+			"id": 19,
+			"question": "National animal of India",
+			"category": "gk",
+			"answer": [
+				"Tiger",
+				"Elephant",
+				"Horse",
+				"Lion"
+			],
+			"correctAnswer": "Tiger"
+		},
+		{
+			"id": 20,
+			"question": "National birt of India?",
+			"category": "gk",
+			"answer": [
+				"Peacock",
+				"Pigeon",
+				"Sparrow",
+				"Eagle"
+			],
+			"correctAnswer": "Peacock"
+		},
+		{
+			"id": 21,
+			"question": "National flower of India?",
+			"category": "gk",
+			"answer": [
+				"Rose",
+				"Lotus",
+				"Lily",
+				"Sunflower"
+			],
+			"correctAnswer": "Lotus"
+		},
+		{
+			"id": 22,
+			"question": "National fruit of India?",
+			"category": "gk",
+			"answer": [
+				"Orange",
+				"Apple",
+				"Banana",
+				"Mango"
+			],
+			"correctAnswer": "Mango"
+		},
+		{
+			"id": 23,
+			"question": "Name the primary colours?",
+			"category": "gk",
+			"answer": [
+				"Red, Yellow and Blue",
+				"Green, Orange and Red",
+				"Blue, White and Gray",
+				"Green, Red and White"
+			],
+			"correctAnswer": "Red, Yellow and Blue"
+		},
+		{
+			"id": 24,
+			"question": "Smallest month of the year?",
+			"category": "gk",
+			"answer": [
+				"March",
+				"February",
+				"October",
+				"April"
+			],
+			"correctAnswer": "February"
+		},
+		{
+			"id": 25,
+			"question": "Who was the first Prime Minister of India?",
+			"category": "gk",
+			"answer": [
+				"Indira Gandhi",
+				"Mahatma Gandhi",
+				"Sardar Vallabhbhai Patel ",
+				"Pandit Jawaharlal Nehru"
+			],
+			"correctAnswer": "Pandit Jawaharlal Nehru"
+		},
+		{
+			"id": 26,
+			"question": "Which festival is called the festival of colours?",
+			"category": "gk",
+			"answer": [
+				"Diwali",
+				"Holi",
+				"Lohri",
+				"Rakhi"
+			],
+			"correctAnswer": "Holi"
+		},
+		{
+			"id": 27,
+			"question": "The national aquatic animal of India?",
+			"category": "gk",
+			"answer": [
+				"River Dolphin",
+				"White cheeked shark",
+				"Starfish",
+				"Goldfish"
+			],
+			"correctAnswer": "River Dolphin"
+		},
+		{
+			"id": 28,
+			"question": "The planet known as the Red Planet?",
+			"category": "gk",
+			"answer": [
+				"Mercury",
+				"Earth",
+				"Jupiter",
+				"Mars"
+			],
+			"correctAnswer": "Mars"
+		},
+		{
+			"id": 29,
+			"question": "The country known as the Land of the Rising Sun?",
+			"category": "gk",
+			"answer": [
+				"Japan",
+				"India",
+				"USA",
+				"Hong Kong"
+			],
+			"correctAnswer": "Japan",
+			"options": [
+				"Japan",
+				"India",
+				"USA",
+				"China"
+			]
+		},
+		{
+			"id": 30,
+			"question": "How many millimeters are there in a centimeters?",
+			"category": "gk",
+			"answer": [
+				"15mm",
+				"20mm",
+				"1mm",
+				"10mm"
+			],
+			"correctAnswer": "10mm"
+		},
+		{
+			"id": 31,
+			"question": "Name the hardest substance available on Earth?",
+			"category": "gk",
+			"answer": [
+				"Diamond",
+				"Gold",
+				"Iron",
+				"Silver"
+			],
+			"correctAnswer": "Diamond"
+		},
+		{
+			"id": 32,
+			"question": "Name the shape that has ten sides?",
+			"category": "gk",
+			"answer": [
+				"Octagon",
+				"Decagon",
+				"Polygon",
+				"Hexagon"
+			],
+			"correctAnswer": "Decagon"
+		}
 	]
 }
