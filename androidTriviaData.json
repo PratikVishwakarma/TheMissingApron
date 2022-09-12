@@ -372,20 +372,6 @@
 			"correctAnswer": "All of the above"
 		},
 		{
-			"id": 31,
-			"question": "Dummy",
-			"category": "android",
-			"answer": [
-				"df",
-				"sd"
-			],
-			"correctAnswer": "df",
-			"options": [
-				"df",
-				"sd"
-			]
-		},
-		{
 			"id": 32,
 			"question": "Which of the following is a dialog class in android?",
 			"category": "android",
@@ -709,7 +695,7 @@
 			],
 			"correctAnswer": "Stack"
 		}, {
-			"id": 0,
+			"id": 59,
 			"question": "Which animal is known as the (Ship of the Desert)?",
 			"category": "gk",
 			"answer": [
@@ -721,7 +707,7 @@
 			"correctAnswer": "Camel"
 		},
 		{
-			"id": 1,
+			"id": 60,
 			"question": "How many hours are there in 1 day?",
 			"category": "gk",
 			"answer": [
@@ -1109,6 +1095,281 @@
 				"Hexagon"
 			],
 			"correctAnswer": "Decagon"
+		}, {
+			"id": 60,
+			"question": "मुहावरा: दीवारों के ______ होना",
+			"category": "hindi",
+			"answer": [
+				"नाक",
+				"पैर",
+				"हाथ",
+				"कान"
+			],
+			"correctAnswer": "कान",
+		},
+		{
+			"id": 61,
+			"question": "मुहावरा: आँख का _____",
+			"category": "hindi",
+			"answer": [
+				"दर्द",
+				"तारा",
+				"चश्मा",
+				"पानी"
+			],
+			"correctAnswer": "तारा"
+		},
+		{
+			"id": 62,
+			"question": "मुहावरा: ____ को बाप बनाना",
+			"category": "hindi",
+			"answer": [
+				"भाई",
+				"गधे",
+				"दोस्त",
+				"शेर"
+			],
+			"correctAnswer": "गधे"
+		},
+		{
+			"id": 63,
+			"question": "मुहावरा:  _____ पलटना",
+			"category": "hindi",
+			"answer": [
+				"पासा",
+				"बात",
+				"कार",
+				"बस"
+			],
+			"correctAnswer": "पासा"
+		},
+		{
+			"id": 64,
+			"question": "मुहावरा: _____ कर चूर होना",
+			"category": "hindi",
+			"answer": [
+				"खा",
+				"नाच",
+				"थक",
+				"सो"
+			],
+			"correctAnswer": "थक"
+		},
+		{
+			"id": 65,
+			"question": "मुहावरा: तिनके का _____",
+			"category": "hindi",
+			"answer": [
+				"घर",
+				"खाना",
+				"दर्द",
+				"सहारा"
+			],
+			"correctAnswer": "सहारा"
+		},
+		{
+			"id": 66,
+			"question": "ऐसा शब्द बताइए कि जिससे फूल, मिठाई और फल बन जाए ?",
+			"category": "hindi",
+			"answer": [
+				"रसमलाई",
+				"गुलाब जामुन",
+				"आम",
+				"रबड़ी"
+			],
+			"correctAnswer": "गुलाब जामुन",
+		},
+		{
+			"id": 67,
+			"question": "अगर आप अँधेरे कमरे में एक मोमबत्ती, एक लालटेन और एक दीया के साथ हैं तो सबसे पहले आप क्या जलाएँगे ?",
+			"category": "hindi",
+			"answer": [
+				"मोमबत्ती",
+				"लालटेन",
+				"बल्ब",
+				"माचिस"
+			],
+			"correctAnswer": "माचिस"
+		},
+		{
+			"id": 68,
+			"question": "वह कौन – सा फूल है, जिसके पास कोई रंग और महक नहीं है ?",
+			"category": "hindi",
+			"answer": [
+				"अप्रैल फूल",
+				"गेंदा",
+				"गुलाब",
+				"आम"
+			],
+			"correctAnswer": "अप्रैल फूल"
+		},
+		{
+			"id": 69,
+			"question": "ऐसी कौन – सी चीज है, जिसको जितना खींचा जाता है, वो उतनी हीं छोटी होती जाती है |",
+			"category": "hindi",
+			"answer": [
+				"रबर",
+				"रस्सी",
+				"बात",
+				"सिगरेट"
+			],
+			"correctAnswer": "सिगरेट"
+		},
+		{
+			"id": 70,
+			"question": "ऐसा रूम, जिसकी खिड़की ना दरवाजा तो बताओ क्या ?",
+			"category": "hindi",
+			"answer": [
+				"बाथरूम",
+				"मशरूम",
+				"बैडरूम",
+				"डाइनिंग रूम"
+			],
+			"correctAnswer": "मशरूम"
+		},
+		{
+			"id": 71,
+			"question": "गन्दा हूँ तो सफ़ेद, सांफ हूँ तो काला, कौन हूं मैं ?",
+			"category": "hindi",
+			"answer": [
+				"बल्ब",
+				"रबर",
+				"वाइटबोर्ड",
+				"ब्लैकबोर्ड"
+			],
+			"correctAnswer": "ब्लैकबोर्ड"
+		},
+		{
+			"id": 72,
+			"question": "तीन रंगो की तीन आँख, जल्दी से बताओ मेरा नाम ?",
+			"category": "hindi",
+			"answer": [
+				"ट्रैफिक लाइट",
+				"नारियल",
+				"जहाज",
+				"उल्लू"
+			],
+			"correctAnswer": "ट्रैफिक लाइट"
+		},
+		{
+			"id": 73,
+			"question": "कमरे को भर देता फिर भी जगह नहीं लेता, क्या है इसका नाम ?",
+			"category": "hindi",
+			"answer": [
+				"रूई",
+				"सोच",
+				"हवा",
+				"पानी"
+			],
+			"correctAnswer": "हवा"
+		},
+		{
+			"id": 74,
+			"question": "नहीं रखोगे तो टूट जाऊंगा, बताओ क्या हूँ मैं ?",
+			"category": "hindi",
+			"answer": [
+				"वादा",
+				"कांच का बर्तन",
+				"धयान",
+				"बल्ब"
+			],
+			"correctAnswer": "वादा"
+		},
+		{
+			"id": 75,
+			"question": "छोटा सा दाना, पट पट कर के फट जाता, लोगो के खाने काम मैं आता, बताओ मेरा नाम ?",
+			"category": "hindi",
+			"answer": [
+				"आम",
+				"पॉपकॉर्न",
+				"मोती",
+				"कंकर"
+			],
+			"correctAnswer": "पॉपकॉर्न"
+		},
+		{
+			"id": 76,
+			"question": "खाना दोगे तो जिन्दा रहूँगा पानी दोगे तो मर जाऊंगा, बताओ मेरा नाम ?",
+			"category": "hindi",
+			"answer": [
+				"कछुआ",
+				"नाव",
+				"उल्लू",
+				"आग"
+			],
+			"correctAnswer": "आग"
+		},
+		{
+			"id": 77,
+			"question": "एक थी खाली पॉकेट जिसमे कुछ था, जल्दी से बातो क्या ?",
+			"category": "hindi",
+			"answer": [
+				"छेद",
+				"पैसे",
+				"टॉफी",
+				"सीके"
+			],
+			"correctAnswer": "छेद"
+		},
+		{
+			"id": 78,
+			"question": "तुम्हारे बोलने पे ही बजता हूँ, पर फिर ना जाने मेरे बजने से क्यों परेशान होते हो तुम ?",
+			"category": "hindi",
+			"answer": [
+				"बैंड",
+				"अलार्म",
+				"कांच का बर्तन",
+				"सीके"
+			],
+			"correctAnswer": "अलार्म"
+		},
+		{
+			"id": 79,
+			"question": "जितना खाली करोगे उतना बढ़ा हो जाऊंगा, अगर समझ गए तो बताओ मेरा नाम ?",
+			"category": "hindi",
+			"answer": [
+				"नारियल",
+				"घर",
+				"रेत का ढेर",
+				"गड्ढा"
+			],
+			"correctAnswer": "गड्ढा"
+		},
+		{
+			"id": 80,
+			"question": "वो क्या है जो बहती है पर ना नदी  है ना पानी है ?",
+			"category": "hindi",
+			"answer": [
+				"नदी",
+				"कूआ",
+				"नाक",
+				"हवा"
+			],
+			"correctAnswer": "नाक"
+		},
+		{
+			"id": 81,
+			"question": "अकेला छोड़ो तो कुछ नहीं करूँगा, पर काटने जाओगे तो रुला दूंगा, अगर समझ गए तो बताओ मेरा नाम ?",
+			"category": "hindi",
+			"answer": [
+				"आम",
+				"प्याज",
+				"नारियल",
+				"मिर्ची"
+			],
+			"correctAnswer": "प्याज"
+		},
+		{
+			"id": 82,
+			"question": "एक ऐसी सूई जो सबको रास्ता दिखाए, अगर समझ गए तो मेरा नाम बताएं ?",
+			"category": "hindi",
+			"answer": [
+				"घडी",
+				"सुई धागा",
+				"कंपास",
+				"ट्रैफिक लाइट"
+			],
+			"correctAnswer": "कंपास"
 		}
 	]
 }
