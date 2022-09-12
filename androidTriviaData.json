@@ -372,6 +372,20 @@
 			"correctAnswer": "All of the above"
 		},
 		{
+			"id": 31,
+			"question": "Dummy",
+			"category": "android",
+			"answer": [
+				"df",
+				"sd"
+			],
+			"correctAnswer": "df",
+			"options": [
+				"df",
+				"sd"
+			]
+		},
+		{
 			"id": 32,
 			"question": "Which of the following is a dialog class in android?",
 			"category": "android",
@@ -695,7 +709,7 @@
 			],
 			"correctAnswer": "Stack"
 		}, {
-			"id": 59,
+			"id": 0,
 			"question": "Which animal is known as the (Ship of the Desert)?",
 			"category": "gk",
 			"answer": [
@@ -707,7 +721,7 @@
 			"correctAnswer": "Camel"
 		},
 		{
-			"id": 60,
+			"id": 1,
 			"question": "How many hours are there in 1 day?",
 			"category": "gk",
 			"answer": [
@@ -1105,7 +1119,7 @@
 				"हाथ",
 				"कान"
 			],
-			"correctAnswer": "कान",
+			"correctAnswer": "कान"
 		},
 		{
 			"id": 61,
@@ -1177,7 +1191,7 @@
 				"आम",
 				"रबड़ी"
 			],
-			"correctAnswer": "गुलाब जामुन",
+			"correctAnswer": "गुलाब जामुन"
 		},
 		{
 			"id": 67,
