@@ -7,7 +7,7 @@
 				"a web browser",
 				"an operating system",
 				"a web server",
-				"None of the above"
+				"None of the these"
 			],
 			"correctAnswer": "an operating system"
 		},
@@ -19,7 +19,7 @@
 				"OSS",
 				"OSS",
 				"Apache/MIT",
-				"None of the above"
+				"None of the these"
 			],
 			"correctAnswer": "Apache/MIT"
 		},
@@ -55,7 +55,7 @@
 				"Simple virtual machine",
 				"JVM",
 				"Dalvik virtual machine",
-				"None of the above"
+				"None of the these"
 			],
 			"correctAnswer": "Dalvik virtual machine"
 		},
@@ -66,7 +66,7 @@
 				"Android Page Kit",
 				"Android Phone Kit",
 				"Android Package Kit",
-				"None of the above"
+				"None of the these"
 			],
 			"category": "android",
 			"correctAnswer": "Android Package Kit"
@@ -138,7 +138,7 @@
 				"Android destroy bridge",
 				"Android delete bridge",
 				"Android debug bridge",
-				"None of the above"
+				"None of the these"
 			],
 			"category": "android",
 			"correctAnswer": "Android debug bridge"
@@ -150,10 +150,10 @@
 				"Physical android phone",
 				"Third-party emulators",
 				"Emulator included in Android SDK",
-				"All of the above"
+				"All of these"
 			],
 			"category": "android",
-			"correctAnswer": "All of the above"
+			"correctAnswer": "All of these"
 		},
 		{
 			"id": 13,
@@ -234,7 +234,7 @@
 				"Android Action Packaging Tool",
 				"Android Activity Packaging Tool",
 				"Android Asset Packaging Tool",
-				"None of the above"
+				"None of the these"
 			],
 			"category": "android",
 			"correctAnswer": "Android Asset Packaging Tool"
@@ -246,7 +246,7 @@
 				"Native Development Kit",
 				"New Development kit",
 				"Native Design Kit",
-				"None of the above"
+				"None of the these"
 			],
 			"category": "android",
 			"correctAnswer": "Native Development Kit"
@@ -258,7 +258,7 @@
 				"Manifest",
 				"Java source code",
 				"XML",
-				"None of the above"
+				"None of the these"
 			],
 			"category": "android",
 			"correctAnswer": "Java source code"
@@ -366,10 +366,10 @@
 				"AlertDialog",
 				"DatePicker Dialog",
 				"AlertDialog",
-				"All of the above"
+				"All of these"
 			],
 			"category": "android",
-			"correctAnswer": "All of the above"
+			"correctAnswer": "All of these"
 		},
 		{
 			"id": 31,
@@ -393,9 +393,9 @@
 				"ProgressDialog",
 				"AlertDialog",
 				"DatePicker Dialog",
-				"All of the above"
+				"All of these"
 			],
-			"correctAnswer": "All of the above"
+			"correctAnswer": "All of these"
 		},
 		{
 			"id": 33,
@@ -501,7 +501,7 @@
 				"Application Not Responding",
 				"Application Not Rendering",
 				"Application Not Reacting",
-				"None of the above"
+				"None of the these"
 			],
 			"correctAnswer": "Application Not Responding"
 		},
@@ -513,7 +513,7 @@
 				"android.view.ViewGroup",
 				"android.view.View",
 				"android.widget",
-				"None of the above"
+				"None of the these"
 			],
 			"correctAnswer": "android.view.ViewGroup"
 		},
@@ -561,7 +561,7 @@
 				"Vertical",
 				"Horizontal",
 				"There is no default value of orientation attribute in LinearLayout",
-				"None of the above"
+				"None of the these"
 			],
 			"correctAnswer": "Horizontal"
 		},
@@ -585,7 +585,7 @@
 				"Google Count Messaging",
 				"Google Center Messaging",
 				"Google Cloud Messaging",
-				"None of the above"
+				"None of the these"
 			],
 			"correctAnswer": "Google Cloud Messaging"
 		},
@@ -1384,6 +1384,616 @@
 				"ट्रैफिक लाइट"
 			],
 			"correctAnswer": "कंपास"
+		},
+		{
+			"id": 83,
+			"question": "What are two things you can never eat for breakfast?",
+			"category": "english",
+			"answer": [
+				"Mango and Orange",
+				"Lunch and Dinner",
+				"Pizza and Dinner",
+				"Pasta and Noodel"
+			],
+			"correctAnswer": "Lunch and Dinner"
+		},
+		{
+			"id": 84,
+			"question": "What is always coming but never arrives? ",
+			"category": "english",
+			"answer": [
+				"Bus",
+				"Time",
+				"Tomorrow",
+				"Today"
+			],
+			"correctAnswer": "Tomorrow"
+		},
+		{
+			"id": 85,
+			"question": "What gets wetter the more it dries? ",
+			"category": "english",
+			"answer": [
+				"Water",
+				"Fire",
+				"Bed",
+				"Towel"
+			],
+			"correctAnswer": "Towel"
+		},
+		{
+			"id": 86,
+			"question": "What word is spelled incorrectly in every single dictionary?",
+			"category": "english",
+			"answer": [
+				"Dictionary",
+				"Incorrectly",
+				"Wrong",
+				"Correct"
+			],
+			"correctAnswer": "Incorrectly"
+		},
+		{
+			"id": 87,
+			"question": "What never asks a question but gets answered all the time?",
+			"category": " english",
+			"answer": [
+				"Student",
+				"Dog",
+				"Cellphone",
+				"Teacher"
+			],
+			"correctAnswer": "Cellphone"
+		},
+		{
+			"id": 88,
+			"question": "What word would you use to describe a man who does not have all his fingers on one hand?",
+			"category": " english",
+			"answer": [
+				"Handicap",
+				"Normal",
+				"Supernatural",
+				"Ghost"
+			],
+			"correctAnswer": "Normal"
+		},
+		{
+			"id": 89,
+			"question": "What goes up but never ever comes down?",
+			"category": " english",
+			"answer": [
+				"Petrol Price",
+				"Bullet",
+				"Your age",
+				"Your weight"
+			],
+			"correctAnswer": "Your age"
+		},
+		{
+			"id": 90,
+			"question": "He got too tired _____ over work.",
+			"category": " english",
+			"answer": [
+				"in",
+				"because off",
+				"on",
+				"because of"
+			],
+			"correctAnswer": "because of"
+		},
+		{
+			"id": 91,
+			"question": "He was seen _____ to the school.",
+			"category": " english",
+			"answer": [
+				"going",
+				"went",
+				"goes",
+				"go"
+			],
+			"correctAnswer": "going"
+		},
+		{
+			"id": 92,
+			"question": "Opposite of men?",
+			"category": " english",
+			"answer": [
+				"Man",
+				"Women",
+				"Boy",
+				"Girl"
+			],
+			"correctAnswer": "Women"
+		},
+		{
+			"id": 93,
+			"question": "I _____ never seen such a picture before.",
+			"category": " english",
+			"answer": [
+				"did",
+				"was",
+				"were",
+				"have"
+			],
+			"correctAnswer": "have"
+		},
+		{
+			"id": 94,
+			"question": "What has a face and two hands, but no arms or legs?",
+			"category": " english",
+			"answer": [
+				"Car",
+				"Bat",
+				"Clock",
+				"Remote"
+			],
+			"correctAnswer": "Clock"
+		},
+		{
+			"id": 95,
+			"question": "I start out tall, but the longer I stand, the shorter I grow. What am I?",
+			"category": " english",
+			"answer": [
+				"A candle",
+				"A boy",
+				"A bulb",
+				"A chair"
+			],
+			"correctAnswer": "A candle"
+		},
+		{
+			"id": 96,
+			"question": "Some months have 31 days, others have 30 days, but how many have 28 days?",
+			"category": " english",
+			"answer": [
+				"5",
+				"1",
+				"12",
+				"6"
+			],
+			"correctAnswer": "12"
+		},
+		{
+			"id": 97,
+			"question": "Meaning of \"Chicken Feed\".",
+			"category": " english",
+			"answer": [
+				"A very small money",
+				"Very expensive",
+				"Food for thought",
+				"None of these"
+			],
+			"correctAnswer": "A very small money"
+		},
+		{
+			"id": 98,
+			"question": "What has a head, a tail, but does not have a body?",
+			"category": "english",
+			"answer": [
+				" A snack",
+				"A coin",
+				"A bus",
+				"A bat"
+			],
+			"correctAnswer": "A coin"
+		},
+		{
+			"id": 99,
+			"question": "अगर नाक पर मैं चढ़ जाऊँ,\nतो कान पकड़कर खूब पढ़ाऊँ |",
+			"category": "hindi",
+			"answer": [
+				"चश्मा",
+				"तितली",
+				"गुस्सा",
+				"हवा"
+			],
+			"correctAnswer": "चश्मा"
+		},
+		{
+			"id": 100,
+			"question": "मेरे नाम से सब डरते हैं, मेरे लिए परिश्रम करते हैं |",
+			"category": "hindi",
+			"answer": [
+				"पानी",
+				"परीक्षा",
+				"मिर्ची",
+				"आग"
+			],
+			"correctAnswer": "परीक्षा"
+		},
+		{
+			"id": 101,
+			"question": "मैं मरती हूँ, मैं कटती हूँ |\nपर रोते हो तुम, पहचानो कौन हूँ मैं |",
+			"category": "hindi",
+			"answer": [
+				"प्याज",
+				"रूई",
+				"मिर्ची",
+				"मोमबत्ती"
+			],
+			"correctAnswer": "प्याज"
+		},
+		{
+			"id": 102,
+			"question": "What goes up as soon as the rain comes down?",
+			"category": "english",
+			"answer": [
+				"Fire",
+				"An umbrella",
+				"Electricity",
+				"Water"
+			],
+			"correctAnswer": "An umbrella"
+		},
+		{
+			"id": 103,
+			"question": "I have all the knowledge you have. But I’m so small, you can hold me in your fist. What am I?",
+			"category": "english",
+			"answer": [
+				"Your teacher",
+				"Your mobile",
+				"Your parents",
+				"Your brain"
+			],
+			"correctAnswer": "Your brain"
+		},
+		{
+			"id": 104,
+			"question": "What has a neck but no head?",
+			"category": "english",
+			"answer": [
+				"A fish",
+				"A bottle",
+				"A boy",
+				"A glass"
+			],
+			"correctAnswer": "A bottle"
+		},
+		{
+			"id": 105,
+			"question": "If you were running a race and passed the person in second place, what place would you be in now?",
+			"category": "english",
+			"answer": [
+				"First",
+				"Third",
+				"Second",
+				"Last"
+			],
+			"correctAnswer": "Second"
+		},
+		{
+			"id": 106,
+			"question": "If you threw a red rock into a blue sea, what would it come back as? ",
+			"category": "english",
+			"answer": [
+				"Blue rock",
+				"Wet rock",
+				"No rock",
+				"Purple rock"
+			],
+			"correctAnswer": "Wet rock"
+		},
+		{
+			"id": 107,
+			"question": "Which plant gives us medicines?",
+			"category": "science",
+			"answer": [
+				"Tulsi",
+				"Castor oil",
+				"Dhatura",
+				"All of these"
+			],
+			"correctAnswer": "All of these"
+		},
+		{
+			"id": 108,
+			"question": "Oil yielding plants are:",
+			"category": "science",
+			"answer": [
+				"Rice",
+				"Mustard",
+				"Wheat",
+				"Rice"
+			],
+			"correctAnswer": "Mustard"
+		},
+		{
+			"id": 109,
+			"question": "Honey comes from beehives of:",
+			"category": "science",
+			"answer": [
+				"Butterfly",
+				"Spider",
+				"Honeybee",
+				"None of these"
+			],
+			"correctAnswer": "Honeybee"
+		},
+		{
+			"id": 110,
+			"question": "_____ is extracted by a honey extractor from beehives.",
+			"category": "science",
+			"answer": [
+				"Honey",
+				"Sugar",
+				"Sarbat",
+				"All of these"
+			],
+			"correctAnswer": "Honey"
+		},
+		{
+			"id": 111,
+			"question": "A small white structure may have grown out of seeds is called:",
+			"category": "science",
+			"answer": [
+				"Roots",
+				"Stem",
+				"Sprouts",
+				"None of these"
+			],
+			"correctAnswer": "sprouts"
+		},
+		{
+			"id": 112,
+			"question": "Bees collect nectar from:",
+			"category": "science",
+			"answer": [
+				"Flowers",
+				"Fruits",
+				"Flowers",
+				"None of these"
+			],
+			"correctAnswer": "flowers"
+		},
+		{
+			"id": 113,
+			"question": "Bees store nectar for their use all through the:",
+			"category": "science",
+			"answer": [
+				"Week",
+				"Year",
+				"Month",
+				"Day"
+			],
+			"correctAnswer": "Year"
+		},
+		{
+			"id": 114,
+			"question": "Eggs are the rich source of:",
+			"category": "science",
+			"answer": [
+				"Carbohydrates",
+				"Proteins",
+				"Fat",
+				"Oil"
+			],
+			"correctAnswer": "Proteins"
+		},
+		{
+			"id": 115,
+			"question": "Fruits are:",
+			"category": "science",
+			"answer": [
+				"Tasty",
+				"All of these",
+				"Delicious",
+				"Juicy"
+			],
+			"correctAnswer": "all of these"
+		},
+		{
+			"id": 116,
+			"question": "Honey bee prepare honey in beehives.",
+			"category": "science",
+			"answer": [
+				"True",
+				"False"
+			],
+			"correctAnswer": "True"
+		},
+		{
+			"id": 117,
+			"question": "Animals eat both plants and animals.",
+			"category": "science",
+			"answer": [
+				"False",
+				"True"
+			],
+			"correctAnswer": "True"
+		},
+		{
+			"id": 118,
+			"question": "Fish are major sources of proteins.",
+			"category": "science",
+			"answer": [
+				"True",
+				"False"
+			],
+			"correctAnswer": "True"
+		},
+		{
+			"id": 119,
+			"question": "Food helps in body buildings.",
+			"category": "science",
+			"answer": [
+				"True",
+				"False"
+			],
+			"correctAnswer": "True"
+		},
+		{
+			"id": 120,
+			"question": "Those animals that eating other animals are called:",
+			"category": "science",
+			"answer": [
+				"Carnivores",
+				"Omnivores",
+				"Herbivores",
+				"None of these"
+			],
+			"correctAnswer": "Carnivores"
+		},
+		{
+			"id": 121,
+			"question": "_____ is the ability to do work.",
+			"category": "science",
+			"answer": [
+				"Strength",
+				"Hard work",
+				"Energy",
+				"None of these"
+			],
+			"correctAnswer": "Energy"
+		},
+		{
+			"id": 122,
+			"question": "Animals which not give us milk",
+			"category": "science",
+			"answer": [
+				"Tiger",
+				"Cows",
+				"Camel",
+				"Goat"
+			],
+			"correctAnswer": "Tiger"
+		},
+		{
+			"id": 123,
+			"question": "Which part of the Brinjal plant we generally eat ?",
+			"category": "science",
+			"answer": [
+				"Fruit",
+				"Branches",
+				"Root",
+				"Seeds"
+			],
+			"correctAnswer": "fruit"
+		},
+		{
+			"id": 124,
+			"question": "Which part of sugarcane we generally eat?",
+			"category": "science",
+			"answer": [
+				"Root",
+				"Stem/Branch",
+				"Leaves",
+				"Seeds"
+			],
+			"correctAnswer": "Stem/Branch"
+		},
+		{
+			"id": 125,
+			"question": "Plants gives us more varieties of:",
+			"category": "science",
+			"answer": [
+				"Milk",
+				"Gas",
+				"Food",
+				"Curd"
+			],
+			"correctAnswer": "Food"
+		},
+		{
+			"id": 126,
+			"question": "Sugar is obtained from the leaves of sugarcane.",
+			"category": "science",
+			"answer": [
+				"True",
+				"False"
+			],
+			"correctAnswer": "False"
+		},
+		{
+			"id": 127,
+			"question": "Tiger is a Omnivores.",
+			"category": "science",
+			"answer": [
+				"False",
+				"True"
+			],
+			"correctAnswer": "False"
+		},
+		{
+			"id": 128,
+			"question": "An oily thin paper sheet will be:",
+			"category": "science",
+			"answer": [
+				"Translucent",
+				"Transparent",
+				"Opaque",
+				"Cannot be predicted"
+			],
+			"correctAnswer": "translucent"
+		},
+		{
+			"id": 129,
+			"question": "Which is a set of transparent materials?",
+			"category": "science",
+			"answer": [
+				"Glass and air",
+				"Water and glass",
+				"Water and air",
+				"All of these"
+			],
+			"correctAnswer": "All of these"
+		},
+		{
+			"id": 130,
+			"question": "Choose the opaque object from the following:",
+			"category": "science",
+			"answer": [
+				"Water",
+				"Charcoal",
+				"Glass",
+				"Air"
+			],
+			"correctAnswer": "Charcoal"
+		},
+		{
+			"id": 131,
+			"question": "Which object shines?",
+			"category": "science",
+			"answer": [
+				"Cotton shirt",
+				"Steel spoon",
+				"Plastic toy",
+				"Stone piece"
+			],
+			"correctAnswer": "Steel spoon"
+		},
+		{
+			"id": 132,
+			"question": "Which of the following has reddish brown colour?",
+			"category": "science",
+			"answer": [
+				"Iron",
+				"Gold",
+				"Copper",
+				"Silver"
+			],
+			"correctAnswer": "Iron"
+		},
+		{
+			"id": 133,
+			"question": "Which one of the following is insoluble in water?",
+			"category": "science",
+			"answer": [
+				"Milk",
+				"Alcohol",
+				"Sugar",
+				"Oil"
+			],
+			"correctAnswer": "Oil"
+		},
+		{
+			"id": 134,
+			"question": "The amount of matter in any object is called its weight.",
+			"category": "science",
+			"answer": [
+				"False",
+				"True"
+			],
+			"correctAnswer": "False"
 		}
 	]
 }
