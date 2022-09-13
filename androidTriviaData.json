@@ -7,999 +7,1001 @@
 		"correctAnswer": "an operating system"
 	}, {
 		"id": 2,
-		"question": "Android is -",
+		"question": "Under which of the following Android is licensed?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["OSS", "OSS", "Apache/MIT", "None of the these"],
+		"correctAnswer": "Apache/MIT"
 	}, {
 		"id": 3,
-		"question": "Android is -",
+		"question": " For which of the following Android is mainly developed?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Mobile devices", "Watch", "Desktops", "Servers"],
+		"correctAnswer": "Mobile devices"
 	}, {
 		"id": 4,
-		"question": "Android is -",
+		"question": "Which of the following is the first mobile phone released that ran the Android OS?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Google gPhone", "T - Mobile G1", "Samsung", "Motorola"],
+		"correctAnswer": "T - Mobile G1"
 	}, {
 		"id": 5,
-		"question": "Android is -",
+		"question": "Which of the following virtual machine is used by the Android operating system?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Simple virtual machine", "JVM", "Dalvik virtual machine", "None of the these"],
+		"correctAnswer": "Dalvik virtual machine"
 	}, {
 		"id": 6,
-		"question": "Android is -",
+		"question": "APK stands for -",
+		"answer": ["Android Page Kit", "Android Phone Kit", "Android Package Kit", "None of the these"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Android Package Kit"
 	}, {
 		"id": 7,
-		"question": "Android is -",
+		"question": "What does API stand for?",
+		"answer": ["Application Page Interface", "Application Programming Interface", "Android Programming Interface", "Android Page Interface"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Application Programming Interface"
 	}, {
 		"id": 8,
-		"question": "Android is -",
+		"question": "Which of the following converts Java byte code into Dalvik byte code?",
+		"answer": ["Dex compiler", "Virtual Machine", "Mobile interpretive compiler (MIC)", "Dalvik converter"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Dex compiler"
 	}, {
 		"id": 9,
-		"question": "Android is -",
+		"question": "How can we stop the services in android?",
+		"answer": ["By using system.exit() method", "By using the stopSelf() and stopService() method", "By using system.exit() method", "By using system.stop() method"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "By using the stopSelf() and stopService() method"
 	}, {
 		"id": 10,
-		"question": "Android is -",
+		"question": "What is an activity in android?",
+		"answer": ["android package", "android resourse", "android class", "A single screen in an application with supporting java/kotlin code"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "A single screen in an application with supporting java/kotlin code"
 	}, {
 		"id": 11,
-		"question": "Android is -",
+		"question": "How can we kill an activity in android?",
+		"answer": ["Using finishActivity(int requestCode)", "Using finish() method", "Neither (a) nor (b)", "Both (a) and (b)"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Both (a) and (b)"
 	}, {
 		"id": 12,
-		"question": "Android is -",
+		"question": "ADB stands for -",
+		"answer": ["Android destroy bridge", "Android delete bridge", "Android debug bridge", "None of the these"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Android debug bridge"
 	}, {
 		"id": 13,
-		"question": "Android is -",
+		"question": "On which of the following, developers can test the application, during developing the android applications?",
+		"answer": ["Physical android phone", "Third-party emulators", "Emulator included in Android SDK", "All of these"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "All of these"
 	}, {
 		"id": 14,
-		"question": "Android is -",
+		"question": "Which of the following kernel is used in Android?",
+		"answer": ["Redhat", "Linux", "Windows", "MAC"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Linux"
 	}, {
 		"id": 15,
-		"question": "Android is -",
+		"question": "Which of the following is the first callback method that is invoked by the system during an activity life-cycle?",
+		"answer": ["onRestart() method", "onStart() method", "onCreate() method", "onAttach() method"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "onCreate() method"
 	}, {
 		"id": 16,
-		"question": "Android is -",
+		"question": "Which of the following is not an activity lifecycle callback method?",
+		"answer": ["onCreate() method", "onBackPressed() method", "onResume() method", "onCreate() method"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "onBackPressed() method"
 	}, {
 		"id": 17,
-		"question": "Android is -",
+		"question": "We require an AVD to create an emulator. What does AVD stand for?",
+		"answer": ["Android Virtual device", "Active Virtual display", "Android Virtual display", "Android Virtual display"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Android Virtual device"
 	}, {
 		"id": 18,
-		"question": "Android is -",
+		"question": "Does android support other languages than java?",
+		"answer": ["Can't Say", "No", "Yes", "May be "],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Yes"
 	}, {
 		"id": 19,
-		"question": "Android is -",
+		"question": "What is the use of content provider in Android?",
+		"answer": ["For sending the data from an application to another application", "For sending messages to other application", "For storing the data in the database", "For sending the data from an application to another application"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "For sending the data from an application to another application"
 	}, {
 		"id": 20,
-		"question": "Android is -",
+		"question": "AAPT stands for -",
+		"answer": ["Android Action Packaging Tool", "Android Activity Packaging Tool", "Android Asset Packaging Tool", "None of the these"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Android Asset Packaging Tool"
 	}, {
 		"id": 21,
-		"question": "Android is -",
+		"question": "NDK stands for -",
+		"answer": ["Native Development Kit", "New Development kit", "Native Design Kit", "None of the these"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Native Development Kit"
 	}, {
 		"id": 22,
-		"question": "Android is -",
+		"question": "Which of the following is contained in the src folder?",
+		"answer": ["Manifest", "Java source code", "XML", "None of the these"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Java source code"
 	}, {
 		"id": 23,
-		"question": "Android is -",
+		"question": "Which of the following method is used to handle what happens after clicking a button?",
+		"answer": ["onCreate", "onSelect", "onClick", "onClicked"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "onClick"
 	}, {
 		"id": 24,
-		"question": "Android is -",
+		"question": "Which of the following android component displays the part of an activity on screen?",
+		"answer": ["Intent", "Fragment", "Service", "Intent"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Fragment"
 	}, {
 		"id": 25,
-		"question": "Android is -",
+		"question": "In which of the following tab an error is shown?",
+		"answer": ["Profiler", "Logcat", "CPU", "Memory"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Logcat"
 	}, {
 		"id": 26,
-		"question": "Android is -",
+		"question": "Which of the following is the topmost layer of android architecture?",
+		"answer": ["System Libraries and Android Runtime", "Applications Framework", "Applications", "Linux Kernel"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Applications"
 	}, {
 		"id": 27,
-		"question": "Android is -",
+		"question": "Which of the layer is the lowest layer of android architecture?",
+		"answer": ["Applications", "Applications Framework", "Linux Kernel", "System Libraries and Android Runtime"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Linux Kernel"
 	}, {
 		"id": 28,
-		"question": "Android is -",
+		"question": "What is contained in manifest.xml?",
+		"answer": ["List of strings used in the app", "Source code", "App assests", "Permission that the application requires"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Permission that the application requires"
 	}, {
 		"id": 29,
-		"question": "Android is -",
+		"question": "Which of the following is not a state in the service lifecycle?",
+		"answer": ["Paused", "Destroyed", "Running", "Start"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Paused"
 	}, {
 		"id": 30,
-		"question": "Android is -",
+		"question": "Which of the following is not a nickname of any android version?",
+		"answer": ["Honeycomb", "Muffin", "Donut", "Cupcake"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "Muffin"
 	}, {
 		"id": 31,
-		"question": "Android is -",
+		"question": "Which of the following is a dialog class in android?",
+		"answer": ["AlertDialog", "DatePicker Dialog", "AlertDialog", "All of these"],
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"correctAnswer": "All of these"
 	}, {
 		"id": 32,
-		"question": "Android is -",
+		"question": "Dummy",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["df", "sd"],
+		"correctAnswer": "df",
+		"options": ["df", "sd"]
 	}, {
 		"id": 33,
-		"question": "Android is -",
+		"question": "Which of the following is a dialog class in android?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["ProgressDialog", "AlertDialog", "DatePicker Dialog", "All of these"],
+		"correctAnswer": "All of these"
 	}, {
 		"id": 34,
-		"question": "Android is -",
+		"question": "In which state the activity is, if it is not in focus, but still visible on the screen?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Paused state", "Destroyed state", "Rest State", "Running state"],
+		"correctAnswer": "Paused state"
 	}, {
 		"id": 35,
-		"question": "Android is -",
+		"question": "Which of the following is the built-in database of Android?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Oracle", "MySQL", "SQLite", "MongoDB"],
+		"correctAnswer": "SQLite"
 	}, {
 		"id": 36,
-		"question": "Android is -",
+		"question": "Android is developed by ",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Samsung", "Microsoft", "Google", "Android Inc"],
+		"correctAnswer": "Android Inc"
 	}, {
 		"id": 37,
-		"question": "Android is -",
+		"question": "Android Web Browser Is Based On",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Open-source Webkit", "Chrome", "Firefox", "Safari"],
+		"correctAnswer": "Open-source Webkit"
 	}, {
 		"id": 38,
-		"question": "Android is -",
+		"question": "Which Media Format Is Not Supported By Android",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["AVI", "MPEG", "MP4", "MIDI"],
+		"correctAnswer": "AVI"
 	}, {
 		"id": 39,
-		"question": "Android is -",
+		"question": "In Which Directory  XML Layout Files Are Stored",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["/res/values", "/res/layout", "/assets", "/src"],
+		"correctAnswer": "/res/layout"
 	}, {
 		"id": 40,
-		"question": "Android is -",
+		"question": "View Pager Is Used For",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Paging Down List Items", "Swiping Activities", "Paging Down List Items", "Swiping Fragments"],
+		"correctAnswer": "Swiping Fragments"
 	}, {
 		"id": 41,
-		"question": "Android is -",
+		"question": "What Is JNI In Android?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Image Editable Tool", "Java Network Interface", "Java Native Interface", "Java Interface"],
+		"correctAnswer": "Java Native Interface"
 	}, {
 		"id": 42,
-		"question": "Android is -",
+		"question": "ANR in android stands for -",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Application Not Responding", "Application Not Rendering", "Application Not Reacting", "None of the these"],
+		"correctAnswer": "Application Not Responding"
 	}, {
 		"id": 43,
-		"question": "Android is -",
+		"question": "All layout classes are the subclasses of -",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["android.view.ViewGroup", "android.view.View", "android.widget", "None of the these"],
+		"correctAnswer": "android.view.ViewGroup"
 	}, {
 		"id": 44,
-		"question": "Android is -",
+		"question": "Which of the following class in android executes the task asynchronously with your service?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["AsyncTask", "SyncTask", "Both of the above", "Main Thread"],
+		"correctAnswer": "AsyncTask"
 	}, {
 		"id": 45,
-		"question": "Android is -",
+		"question": "Which of the following layout in android arranges its children into rows and columns?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["RowLayout", "FrameLayout", "TableLayout", "LinearLayout"],
+		"correctAnswer": "TableLayout"
 	}, {
 		"id": 46,
-		"question": "Android is -",
+		"question": "Which of the following layout in android aligns all children either vertically or horizontally?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["LinearLayout", "RelativeLayout", "TableLayout", "FrameLayout"],
+		"correctAnswer": "LinearLayout"
 	}, {
 		"id": 47,
-		"question": "Android is -",
+		"question": "What is the default value of the orientation attribute in LinearLayout?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Vertical", "Horizontal", "There is no default value of orientation attribute in LinearLayout", "None of the these"],
+		"correctAnswer": "Horizontal"
 	}, {
 		"id": 48,
-		"question": "Android is -",
+		"question": "What is the nine-patch images tool in android?",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["It is an image extension tool.", "It is used to change the bitmap images into nine sections", "Both (a) and (b)", "Both (a) and (b)"],
+		"correctAnswer": "It is used to change the bitmap images into nine sections"
 	}, {
 		"id": 49,
-		"question": "Android is -",
+		"question": "GCM in android stands for -",
 		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"answer": ["Google Count Messaging", "Google Center Messaging", "Google Cloud Messaging", "None of the these"],
+		"correctAnswer": "Google Cloud Messaging"
 	}, {
 		"id": 50,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Number of primitive data types in Java are?",
+		"category": "java",
+		"answer": ["6", "4", "5", "8"],
+		"correctAnswer": "8"
 	}, {
 		"id": 51,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Automatic type conversion is possible in which of the possible cases?",
+		"category": "java",
+		"answer": ["Long to int", "Byte to int", "Int to long", "Short to int"],
+		"correctAnswer": "Int to long"
 	}, {
 		"id": 52,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Select the valid statement.",
+		"category": "java",
+		"answer": ["char[] ch = new char[5]", "char[] ch = new char()", "char[] ch = new char(5)", "char[] ch = new char[]"],
+		"correctAnswer": "char[] ch = new char[5]"
 	}, {
 		"id": 53,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "When an array is passed to a method, what does the method receive?",
+		"category": "java",
+		"answer": ["Copy of first element", "A copy of the array", "Length of the array", "The reference of the array"],
+		"correctAnswer": "The reference of the array"
 	}, {
 		"id": 54,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Select the valid statement to declare and initialize an array.",
+		"category": "java",
+		"answer": ["int[] A = (1, 3, 5)", "int[] A = {}", "int[] A = {1, 3, 5}", "int[][] A = {1, 3, 5}"],
+		"correctAnswer": "int[] A = {1, 3, 5}"
 	}, {
 		"id": 55,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "When is the object created with new keyword?",
+		"category": "java",
+		"answer": ["At run time", "None", "Depends on the code", "At compile time"],
+		"correctAnswer": "At run time"
 	}, {
 		"id": 56,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "In which of the following is toString() method defined?",
+		"category": "java",
+		"answer": ["java.lang.util", "java.lang.Object", "java.lang.String", "None"],
+		"correctAnswer": "java.lang.Object"
 	}, {
 		"id": 57,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "what compareTo() returns?",
+		"category": "java",
+		"answer": ["An int value", "true", "false", "None"],
+		"correctAnswer": "An int value"
 	}, {
 		"id": 58,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "\nIdentify the return type of a method that does not return any value.",
+		"category": "java",
+		"answer": ["int", "main", "null", "void"],
+		"correctAnswer": "void"
 	}, {
 		"id": 59,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Where does the system stores parameters and local variables whenever a method is invoked?",
+		"category": "java",
+		"answer": ["Stack", "Heap", "Tree", "Hash"],
+		"correctAnswer": "Stack"
 	}, {
 		"id": 60,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which animal is known as the (Ship of the Desert)?",
+		"category": "gk",
+		"answer": ["Camel", "Dog", "Horse", "Lion"],
+		"correctAnswer": "Camel"
 	}, {
 		"id": 61,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many hours are there in 1 day?",
+		"category": "gk",
+		"answer": ["20 hours", "24 hours", "23 hours", "22 hours"],
+		"correctAnswer": "24 hours"
 	}, {
 		"id": 62,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many days are there in 1 week?",
+		"category": "gk",
+		"answer": ["5 days", "8 days", "7 days", "6 days"],
+		"correctAnswer": "7 days"
 	}, {
 		"id": 63,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many letters are there in the English alphabet?",
+		"category": "gk",
+		"answer": ["20 letters", "25 letters", "24 letters", "26 letters"],
+		"correctAnswer": "26 letters"
 	}, {
 		"id": 64,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many colours a rainbow have?",
+		"category": "gk",
+		"answer": ["7 colours", "3 colours", "5 colours", "6 colours"],
+		"correctAnswer": "7 colours"
 	}, {
 		"id": 65,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many days are there in one year?",
+		"category": "gk",
+		"answer": ["350 days", "365 days", "360 days", "355 days"],
+		"correctAnswer": "365 days"
 	}, {
 		"id": 66,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many minutes are there in one hour?",
+		"category": "gk",
+		"answer": ["60 minutes", "30 minutes", "40 minutes", "70 minutes"],
+		"correctAnswer": "60 minutes"
 	}, {
 		"id": 67,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many centimetre are there in one meter? ",
+		"category": "gk",
+		"answer": ["10 cm", "100 cm", "1000 cm", "1 cm"],
+		"correctAnswer": "100 cm"
 	}, {
 		"id": 68,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How may meters in one kilometer?",
+		"category": "gk",
+		"answer": ["100 m", "500 m", "1000 m", "10 m"],
+		"correctAnswer": "1000 m"
 	}, {
 		"id": 69,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many consonants are there in the English alphabet?",
+		"category": "gk",
+		"answer": ["20", "22", "24", "21"],
+		"correctAnswer": "21"
 	}, {
 		"id": 70,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many vowels are there in the English alphabet?",
+		"category": "gk",
+		"answer": ["5 vowels ", "7 vowels ", "8 vowels ", "4 vowels "],
+		"correctAnswer": "5 vowels "
 	}, {
 		"id": 71,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which animal is not a pet commonly?",
+		"category": "gk",
+		"answer": ["A Dog", "A Cat", "A Goat", "A Lion"],
+		"correctAnswer": "A Lion"
 	}, {
 		"id": 72,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Find the uncommon one?",
+		"category": "gk",
+		"answer": ["Dog", "Cat", "Goat", "Shark"],
+		"correctAnswer": "Shark"
 	}, {
 		"id": 73,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Find the uncommon one?",
+		"category": "gk",
+		"answer": ["Cricket", "Golf", "Footbal", "Kabaddi"],
+		"correctAnswer": "Kabaddi"
 	}, {
 		"id": 74,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Find the uncommon one?",
+		"category": "gk",
+		"answer": ["Car", "Mobile", "Cycle", "Bus"],
+		"correctAnswer": "Mobile"
 	}, {
 		"id": 75,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Animal normally known as.. King of the Jungle",
+		"category": "gk",
+		"answer": ["Tiger", "Fox", "Lion", "Elephant"],
+		"correctAnswer": "Lion"
 	}, {
 		"id": 76,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Capital of India?",
+		"category": "gk",
+		"answer": ["Mumbai", "New Delhi", "Gandhinagar", "Bihar"],
+		"correctAnswer": "New Delhi"
 	}, {
 		"id": 77,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Find the uncommon one?",
+		"category": "gk",
+		"answer": ["India", "China", "US", "Bhopal"],
+		"correctAnswer": "Bhopal"
 	}, {
 		"id": 78,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Find the uncommon one?",
+		"category": "gk",
+		"answer": ["Orange", "Green", "Blue", "Fish"],
+		"correctAnswer": "Fish"
 	}, {
 		"id": 79,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "National animal of India",
+		"category": "gk",
+		"answer": ["Tiger", "Elephant", "Horse", "Lion"],
+		"correctAnswer": "Tiger"
 	}, {
 		"id": 80,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "National birt of India?",
+		"category": "gk",
+		"answer": ["Peacock", "Pigeon", "Sparrow", "Eagle"],
+		"correctAnswer": "Peacock"
 	}, {
 		"id": 81,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "National flower of India?",
+		"category": "gk",
+		"answer": ["Rose", "Lotus", "Lily", "Sunflower"],
+		"correctAnswer": "Lotus"
 	}, {
 		"id": 82,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "National fruit of India?",
+		"category": "gk",
+		"answer": ["Orange", "Apple", "Banana", "Mango"],
+		"correctAnswer": "Mango"
 	}, {
 		"id": 83,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Name the primary colours?",
+		"category": "gk",
+		"answer": ["Red, Yellow and Blue", "Green, Orange and Red", "Blue, White and Gray", "Green, Red and White"],
+		"correctAnswer": "Red, Yellow and Blue"
 	}, {
 		"id": 84,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Smallest month of the year?",
+		"category": "gk",
+		"answer": ["March", "February", "October", "April"],
+		"correctAnswer": "February"
 	}, {
 		"id": 85,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Who was the first Prime Minister of India?",
+		"category": "gk",
+		"answer": ["Indira Gandhi", "Mahatma Gandhi", "Sardar Vallabhbhai Patel ", "Pandit Jawaharlal Nehru"],
+		"correctAnswer": "Pandit Jawaharlal Nehru"
 	}, {
 		"id": 86,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which festival is called the festival of colours?",
+		"category": "gk",
+		"answer": ["Diwali", "Holi", "Lohri", "Rakhi"],
+		"correctAnswer": "Holi"
 	}, {
 		"id": 87,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "The national aquatic animal of India?",
+		"category": "gk",
+		"answer": ["River Dolphin", "White cheeked shark", "Starfish", "Goldfish"],
+		"correctAnswer": "River Dolphin"
 	}, {
 		"id": 88,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "The planet known as the Red Planet?",
+		"category": "gk",
+		"answer": ["Mercury", "Earth", "Jupiter", "Mars"],
+		"correctAnswer": "Mars"
 	}, {
 		"id": 89,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "The country known as the Land of the Rising Sun?",
+		"category": "gk",
+		"answer": ["Japan", "India", "USA", "Hong Kong"],
+		"correctAnswer": "Japan",
+		"options": ["Japan", "India", "USA", "China"]
 	}, {
 		"id": 90,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "How many millimeters are there in a centimeters?",
+		"category": "gk",
+		"answer": ["15mm", "20mm", "1mm", "10mm"],
+		"correctAnswer": "10mm"
 	}, {
 		"id": 91,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Name the hardest substance available on Earth?",
+		"category": "gk",
+		"answer": ["Diamond", "Gold", "Iron", "Silver"],
+		"correctAnswer": "Diamond"
 	}, {
 		"id": 92,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Name the shape that has ten sides?",
+		"category": "gk",
+		"answer": ["Octagon", "Decagon", "Polygon", "Hexagon"],
+		"correctAnswer": "Decagon"
 	}, {
 		"id": 93,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "मुहावरा: दीवारों के ______ होना",
+		"category": "hindi",
+		"answer": ["नाक", "पैर", "हाथ", "कान"],
+		"correctAnswer": "कान"
 	}, {
 		"id": 94,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "मुहावरा: आँख का _____",
+		"category": "hindi",
+		"answer": ["दर्द", "तारा", "चश्मा", "पानी"],
+		"correctAnswer": "तारा"
 	}, {
 		"id": 95,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "मुहावरा: ____ को बाप बनाना",
+		"category": "hindi",
+		"answer": ["भाई", "गधे", "दोस्त", "शेर"],
+		"correctAnswer": "गधे"
 	}, {
 		"id": 96,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "मुहावरा:  _____ पलटना",
+		"category": "hindi",
+		"answer": ["पासा", "बात", "कार", "बस"],
+		"correctAnswer": "पासा"
 	}, {
 		"id": 97,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "मुहावरा: _____ कर चूर होना",
+		"category": "hindi",
+		"answer": ["खा", "नाच", "थक", "सो"],
+		"correctAnswer": "थक"
 	}, {
 		"id": 98,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "मुहावरा: तिनके का _____",
+		"category": "hindi",
+		"answer": ["घर", "खाना", "दर्द", "सहारा"],
+		"correctAnswer": "सहारा"
 	}, {
 		"id": 99,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "ऐसा शब्द बताइए कि जिससे फूल, मिठाई और फल बन जाए ?",
+		"category": "hindi",
+		"answer": ["रसमलाई", "गुलाब जामुन", "आम", "रबड़ी"],
+		"correctAnswer": "गुलाब जामुन"
 	}, {
 		"id": 100,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "अगर आप अँधेरे कमरे में एक मोमबत्ती, एक लालटेन और एक दीया के साथ हैं तो सबसे पहले आप क्या जलाएँगे ?",
+		"category": "hindi",
+		"answer": ["मोमबत्ती", "लालटेन", "बल्ब", "माचिस"],
+		"correctAnswer": "माचिस"
 	}, {
 		"id": 101,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "वह कौन – सा फूल है, जिसके पास कोई रंग और महक नहीं है ?",
+		"category": "hindi",
+		"answer": ["अप्रैल फूल", "गेंदा", "गुलाब", "आम"],
+		"correctAnswer": "अप्रैल फूल"
 	}, {
 		"id": 102,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "ऐसी कौन – सी चीज है, जिसको जितना खींचा जाता है, वो उतनी हीं छोटी होती जाती है |",
+		"category": "hindi",
+		"answer": ["रबर", "रस्सी", "बात", "सिगरेट"],
+		"correctAnswer": "सिगरेट"
 	}, {
 		"id": 103,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "ऐसा रूम, जिसकी खिड़की ना दरवाजा तो बताओ क्या ?",
+		"category": "hindi",
+		"answer": ["बाथरूम", "मशरूम", "बैडरूम", "डाइनिंग रूम"],
+		"correctAnswer": "मशरूम"
 	}, {
 		"id": 104,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "गन्दा हूँ तो सफ़ेद, सांफ हूँ तो काला, कौन हूं मैं ?",
+		"category": "hindi",
+		"answer": ["बल्ब", "रबर", "वाइटबोर्ड", "ब्लैकबोर्ड"],
+		"correctAnswer": "ब्लैकबोर्ड"
 	}, {
 		"id": 105,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "तीन रंगो की तीन आँख, जल्दी से बताओ मेरा नाम ?",
+		"category": "hindi",
+		"answer": ["ट्रैफिक लाइट", "नारियल", "जहाज", "उल्लू"],
+		"correctAnswer": "ट्रैफिक लाइट"
 	}, {
 		"id": 106,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "कमरे को भर देता फिर भी जगह नहीं लेता, क्या है इसका नाम ?",
+		"category": "hindi",
+		"answer": ["रूई", "सोच", "हवा", "पानी"],
+		"correctAnswer": "हवा"
 	}, {
 		"id": 107,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "नहीं रखोगे तो टूट जाऊंगा, बताओ क्या हूँ मैं ?",
+		"category": "hindi",
+		"answer": ["वादा", "कांच का बर्तन", "धयान", "बल्ब"],
+		"correctAnswer": "वादा"
 	}, {
 		"id": 108,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "छोटा सा दाना, पट पट कर के फट जाता, लोगो के खाने काम मैं आता, बताओ मेरा नाम ?",
+		"category": "hindi",
+		"answer": ["आम", "पॉपकॉर्न", "मोती", "कंकर"],
+		"correctAnswer": "पॉपकॉर्न"
 	}, {
 		"id": 109,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "खाना दोगे तो जिन्दा रहूँगा पानी दोगे तो मर जाऊंगा, बताओ मेरा नाम ?",
+		"category": "hindi",
+		"answer": ["कछुआ", "नाव", "उल्लू", "आग"],
+		"correctAnswer": "आग"
 	}, {
 		"id": 110,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "एक थी खाली पॉकेट जिसमे कुछ था, जल्दी से बातो क्या ?",
+		"category": "hindi",
+		"answer": ["छेद", "पैसे", "टॉफी", "सीके"],
+		"correctAnswer": "छेद"
 	}, {
 		"id": 111,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "तुम्हारे बोलने पे ही बजता हूँ, पर फिर ना जाने मेरे बजने से क्यों परेशान होते हो तुम ?",
+		"category": "hindi",
+		"answer": ["बैंड", "अलार्म", "कांच का बर्तन", "सीके"],
+		"correctAnswer": "अलार्म"
 	}, {
 		"id": 112,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "जितना खाली करोगे उतना बढ़ा हो जाऊंगा, अगर समझ गए तो बताओ मेरा नाम ?",
+		"category": "hindi",
+		"answer": ["नारियल", "घर", "रेत का ढेर", "गड्ढा"],
+		"correctAnswer": "गड्ढा"
 	}, {
 		"id": 113,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "वो क्या है जो बहती है पर ना नदी  है ना पानी है ?",
+		"category": "hindi",
+		"answer": ["नदी", "कूआ", "नाक", "हवा"],
+		"correctAnswer": "नाक"
 	}, {
 		"id": 114,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "अकेला छोड़ो तो कुछ नहीं करूँगा, पर काटने जाओगे तो रुला दूंगा, अगर समझ गए तो बताओ मेरा नाम ?",
+		"category": "hindi",
+		"answer": ["आम", "प्याज", "नारियल", "मिर्ची"],
+		"correctAnswer": "प्याज"
 	}, {
 		"id": 115,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "एक ऐसी सूई जो सबको रास्ता दिखाए, अगर समझ गए तो मेरा नाम बताएं ?",
+		"category": "hindi",
+		"answer": ["घडी", "सुई धागा", "कंपास", "ट्रैफिक लाइट"],
+		"correctAnswer": "कंपास"
 	}, {
 		"id": 116,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What are two things you can never eat for breakfast?",
+		"category": "english",
+		"answer": ["Mango and Orange", "Lunch and Dinner", "Pizza and Dinner", "Pasta and Noodel"],
+		"correctAnswer": "Lunch and Dinner"
 	}, {
 		"id": 117,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What is always coming but never arrives? ",
+		"category": "english",
+		"answer": ["Bus", "Time", "Tomorrow", "Today"],
+		"correctAnswer": "Tomorrow"
 	}, {
 		"id": 118,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What gets wetter the more it dries? ",
+		"category": "english",
+		"answer": ["Water", "Fire", "Bed", "Towel"],
+		"correctAnswer": "Towel"
 	}, {
 		"id": 119,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What word is spelled incorrectly in every single dictionary?",
+		"category": "english",
+		"answer": ["Dictionary", "Incorrectly", "Wrong", "Correct"],
+		"correctAnswer": "Incorrectly"
 	}, {
 		"id": 120,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What never asks a question but gets answered all the time?",
+		"category": " english",
+		"answer": ["Student", "Dog", "Cellphone", "Teacher"],
+		"correctAnswer": "Cellphone"
 	}, {
 		"id": 121,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What word would you use to describe a man who does not have all his fingers on one hand?",
+		"category": " english",
+		"answer": ["Handicap", "Normal", "Supernatural", "Ghost"],
+		"correctAnswer": "Normal"
 	}, {
 		"id": 122,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What goes up but never ever comes down?",
+		"category": " english",
+		"answer": ["Petrol Price", "Bullet", "Your age", "Your weight"],
+		"correctAnswer": "Your age"
 	}, {
 		"id": 123,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "He got too tired _____ over work.",
+		"category": " english",
+		"answer": ["in", "because off", "on", "because of"],
+		"correctAnswer": "because of"
 	}, {
 		"id": 124,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "He was seen _____ to the school.",
+		"category": " english",
+		"answer": ["going", "went", "goes", "go"],
+		"correctAnswer": "going"
 	}, {
 		"id": 125,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Opposite of men?",
+		"category": " english",
+		"answer": ["Man", "Women", "Boy", "Girl"],
+		"correctAnswer": "Women"
 	}, {
 		"id": 126,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "I _____ never seen such a picture before.",
+		"category": " english",
+		"answer": ["did", "was", "were", "have"],
+		"correctAnswer": "have"
 	}, {
 		"id": 127,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What has a face and two hands, but no arms or legs?",
+		"category": " english",
+		"answer": ["Car", "Bat", "Clock", "Remote"],
+		"correctAnswer": "Clock"
 	}, {
 		"id": 128,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "I start out tall, but the longer I stand, the shorter I grow. What am I?",
+		"category": " english",
+		"answer": ["A candle", "A boy", "A bulb", "A chair"],
+		"correctAnswer": "A candle"
 	}, {
 		"id": 129,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Some months have 31 days, others have 30 days, but how many have 28 days?",
+		"category": " english",
+		"answer": ["5", "1", "12", "6"],
+		"correctAnswer": "12"
 	}, {
 		"id": 130,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Meaning of \"Chicken Feed\".",
+		"category": " english",
+		"answer": ["A very small money", "Very expensive", "Food for thought", "None of these"],
+		"correctAnswer": "A very small money"
 	}, {
 		"id": 131,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What has a head, a tail, but does not have a body?",
+		"category": "english",
+		"answer": [" A snack", "A coin", "A bus", "A bat"],
+		"correctAnswer": "A coin"
 	}, {
 		"id": 132,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "अगर नाक पर मैं चढ़ जाऊँ,\nतो कान पकड़कर खूब पढ़ाऊँ |",
+		"category": "hindi",
+		"answer": ["चश्मा", "तितली", "गुस्सा", "हवा"],
+		"correctAnswer": "चश्मा"
 	}, {
 		"id": 133,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "मेरे नाम से सब डरते हैं, मेरे लिए परिश्रम करते हैं |",
+		"category": "hindi",
+		"answer": ["पानी", "परीक्षा", "मिर्ची", "आग"],
+		"correctAnswer": "परीक्षा"
 	}, {
 		"id": 134,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "मैं मरती हूँ, मैं कटती हूँ |\nपर रोते हो तुम, पहचानो कौन हूँ मैं |",
+		"category": "hindi",
+		"answer": ["प्याज", "रूई", "मिर्ची", "मोमबत्ती"],
+		"correctAnswer": "प्याज"
 	}, {
 		"id": 135,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What goes up as soon as the rain comes down?",
+		"category": "english",
+		"answer": ["Fire", "An umbrella", "Electricity", "Water"],
+		"correctAnswer": "An umbrella"
 	}, {
 		"id": 136,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "I have all the knowledge you have. But I’m so small, you can hold me in your fist. What am I?",
+		"category": "english",
+		"answer": ["Your teacher", "Your mobile", "Your parents", "Your brain"],
+		"correctAnswer": "Your brain"
 	}, {
 		"id": 137,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "What has a neck but no head?",
+		"category": "english",
+		"answer": ["A fish", "A bottle", "A boy", "A glass"],
+		"correctAnswer": "A bottle"
 	}, {
 		"id": 138,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "If you were running a race and passed the person in second place, what place would you be in now?",
+		"category": "english",
+		"answer": ["First", "Third", "Second", "Last"],
+		"correctAnswer": "Second"
 	}, {
 		"id": 139,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "If you threw a red rock into a blue sea, what would it come back as? ",
+		"category": "english",
+		"answer": ["Blue rock", "Wet rock", "No rock", "Purple rock"],
+		"correctAnswer": "Wet rock"
 	}, {
 		"id": 140,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which plant gives us medicines?",
+		"category": "science",
+		"answer": ["Tulsi", "Castor oil", "Dhatura", "All of these"],
+		"correctAnswer": "All of these"
 	}, {
 		"id": 141,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Oil yielding plants are:",
+		"category": "science",
+		"answer": ["Rice", "Mustard", "Wheat", "Rice"],
+		"correctAnswer": "Mustard"
 	}, {
 		"id": 142,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Honey comes from beehives of:",
+		"category": "science",
+		"answer": ["Butterfly", "Spider", "Honeybee", "None of these"],
+		"correctAnswer": "Honeybee"
 	}, {
 		"id": 143,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "_____ is extracted by a honey extractor from beehives.",
+		"category": "science",
+		"answer": ["Honey", "Sugar", "Sarbat", "All of these"],
+		"correctAnswer": "Honey"
 	}, {
 		"id": 144,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "A small white structure may have grown out of seeds is called:",
+		"category": "science",
+		"answer": ["Roots", "Stem", "Sprouts", "None of these"],
+		"correctAnswer": "sprouts"
 	}, {
 		"id": 145,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Bees collect nectar from:",
+		"category": "science",
+		"answer": ["Flowers", "Fruits", "Flowers", "None of these"],
+		"correctAnswer": "flowers"
 	}, {
 		"id": 146,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Bees store nectar for their use all through the:",
+		"category": "science",
+		"answer": ["Week", "Year", "Month", "Day"],
+		"correctAnswer": "Year"
 	}, {
 		"id": 147,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Eggs are the rich source of:",
+		"category": "science",
+		"answer": ["Carbohydrates", "Proteins", "Fat", "Oil"],
+		"correctAnswer": "Proteins"
 	}, {
 		"id": 148,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Fruits are:",
+		"category": "science",
+		"answer": ["Tasty", "All of these", "Delicious", "Juicy"],
+		"correctAnswer": "all of these"
 	}, {
 		"id": 149,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Honey bee prepare honey in beehives.",
+		"category": "science",
+		"answer": ["True", "False"],
+		"correctAnswer": "True"
 	}, {
 		"id": 150,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Animals eat both plants and animals.",
+		"category": "science",
+		"answer": ["False", "True"],
+		"correctAnswer": "True"
 	}, {
 		"id": 151,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Fish are major sources of proteins.",
+		"category": "science",
+		"answer": ["True", "False"],
+		"correctAnswer": "True"
 	}, {
 		"id": 152,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Food helps in body buildings.",
+		"category": "science",
+		"answer": ["True", "False"],
+		"correctAnswer": "True"
 	}, {
 		"id": 153,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Those animals that eating other animals are called:",
+		"category": "science",
+		"answer": ["Carnivores", "Omnivores", "Herbivores", "None of these"],
+		"correctAnswer": "Carnivores"
 	}, {
 		"id": 154,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "_____ is the ability to do work.",
+		"category": "science",
+		"answer": ["Strength", "Hard work", "Energy", "None of these"],
+		"correctAnswer": "Energy"
 	}, {
 		"id": 155,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Animals which not give us milk",
+		"category": "science",
+		"answer": ["Tiger", "Cows", "Camel", "Goat"],
+		"correctAnswer": "Tiger"
 	}, {
 		"id": 156,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which part of the Brinjal plant we generally eat ?",
+		"category": "science",
+		"answer": ["Fruit", "Branches", "Root", "Seeds"],
+		"correctAnswer": "fruit"
 	}, {
 		"id": 157,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which part of sugarcane we generally eat?",
+		"category": "science",
+		"answer": ["Root", "Stem/Branch", "Leaves", "Seeds"],
+		"correctAnswer": "Stem/Branch"
 	}, {
 		"id": 158,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Plants gives us more varieties of:",
+		"category": "science",
+		"answer": ["Milk", "Gas", "Food", "Curd"],
+		"correctAnswer": "Food"
 	}, {
 		"id": 159,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Sugar is obtained from the leaves of sugarcane.",
+		"category": "science",
+		"answer": ["True", "False"],
+		"correctAnswer": "False"
 	}, {
 		"id": 160,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Tiger is a Omnivores.",
+		"category": "science",
+		"answer": ["False", "True"],
+		"correctAnswer": "False"
 	}, {
 		"id": 161,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "An oily thin paper sheet will be:",
+		"category": "science",
+		"answer": ["Translucent", "Transparent", "Opaque", "Cannot be predicted"],
+		"correctAnswer": "translucent"
 	}, {
 		"id": 162,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which is a set of transparent materials?",
+		"category": "science",
+		"answer": ["Glass and air", "Water and glass", "Water and air", "All of these"],
+		"correctAnswer": "All of these"
 	}, {
 		"id": 163,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Choose the opaque object from the following:",
+		"category": "science",
+		"answer": ["Water", "Charcoal", "Glass", "Air"],
+		"correctAnswer": "Charcoal"
 	}, {
 		"id": 164,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which object shines?",
+		"category": "science",
+		"answer": ["Cotton shirt", "Steel spoon", "Plastic toy", "Stone piece"],
+		"correctAnswer": "Steel spoon"
 	}, {
 		"id": 165,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which of the following has reddish brown colour?",
+		"category": "science",
+		"answer": ["Iron", "Gold", "Copper", "Silver"],
+		"correctAnswer": "Iron"
 	}, {
 		"id": 166,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "Which one of the following is insoluble in water?",
+		"category": "science",
+		"answer": ["Milk", "Alcohol", "Sugar", "Oil"],
+		"correctAnswer": "Oil"
 	}, {
 		"id": 167,
-		"question": "Android is -",
-		"category": "android",
-		"answer": ["a web browser", "an operating system", "a web server", "None of the these"],
-		"correctAnswer": "an operating system"
+		"question": "The amount of matter in any object is called its weight.",
+		"category": "science",
+		"answer": ["False", "True"],
+		"correctAnswer": "False"
 	}]
 }
